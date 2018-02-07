@@ -1,9 +1,9 @@
 function initialize() {
-	var classroom = new google.maps.LatLng(31.4351600,-97.7439100)
+	var classroom = new google.maps.LatLng(35.084280,-106.624073)
 	var mapOptions = {
-		zoom: 15,
+		zoom: 8,
 		center: classroom,
-		mapTypeId: google.maps.MapTypeId.HYBRID
+		mapTypeId: google.maps.MapTypeId.TERRAIN
 	};
 	var map = new google.maps.Map(
 		document.getElementById("map_canvas"),

@@ -10,27 +10,18 @@
   <body>
     <h1>The Bare Bones of a Utility Map for Gatesville, TX Map</h1>
     <div id="map_canvas"></div>
+  
+  <!-- Let's put our JavaScript down here --------------------------------------------->
+    <!-- Load the external JavaScript file with the map definition code -->
  
  <script src="js/gatesville_map3.js"></script> 
 
 
- <!-- section below functions correctly - tryiung to move code to js page 
-      <script>
-       var map;
-        function initMap() {
-          map = new google.maps.Map(document.getElementById('map_canvas'), {
-              center: {lat: 31.4351600, lng: -97.7439100},
-              zoom: 15,
-              mapTypeId: "hybrid"
-          });
-        }
+    <!-- Load the API in asynchronous mode and execute the initialize function when done -->
+    
+    
+    <script async defer 
+      src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
       </script>
-  
--->
-
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
-          </script>
-
   </body>
 </html>
