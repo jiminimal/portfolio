@@ -1,8 +1,8 @@
 function initialize() {
-	var classroom = new google.maps.LatLng(31.4351600,-97.7439100)
+	var towncenter = new google.maps.LatLng(31.4351600,-97.7439100)
 	var mapOptions = {
 		zoom: 15,
-		center: classroom,
+		center: towncenter,
 		mapTypeId: google.maps.MapTypeId.HYBRID
 	};
 	var map = new google.maps.Map(
