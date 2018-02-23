@@ -204,7 +204,7 @@ silver: [
       }
     ]
   }
-]
+],
 
 dark: [
   {
@@ -438,7 +438,7 @@ dark: [
       }
     ]
   }
-]
+],
 
 night: [
   {
@@ -670,9 +670,19 @@ night: [
       }
     ]
   }
-]
+],
 		
-		
+		hiding: [
+ {
+ featureType: 'poi.business',
+stylers: [{visibility: 'off'}]
+},
+{
+featureType: 'transit',
+ elementType: 'labels.icon',
+stylers: [{visibility: 'off'}]
+}
+ ]
 	
 		
 		
