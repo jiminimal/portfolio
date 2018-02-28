@@ -8,9 +8,9 @@
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: darkblue; 
+    background-color: grey; 
 	color: #CCCCCC;
-	text-align: center}
+	text-align: center }
 	
 #map_canvas { 
 	width:90%; 
