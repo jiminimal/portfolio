@@ -10,7 +10,12 @@
     padding: 0;
     background-color: darkblue; 
 	color: #CCCCCC;
-	text-align: center}
+	text-align: center
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+}
 	
 #map_canvas { 
 	width:90%; 
