@@ -1,0 +1,23 @@
+   /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: grey; 
+	font-family: Arial, Helvetica, sans-serif ;  
+  color: white;
+	text-align: center }
+	
+#map_canvas { 
+	width:90%; 
+	height:80%; 
+	margin-left:auto; 
+	margin-right: auto }
+	
+.infoBox { 
+	color:black}
