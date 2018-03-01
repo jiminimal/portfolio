@@ -42,8 +42,8 @@ function initialize() {
         });
 
   var kmlLayer = new google.maps.KmlLayer(line_breaks, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
+          suppressInfoWindows: false,
+          preserveViewport: true,
           map: map
         });
         kmlLayer.addListener('click', function(event) {
@@ -53,8 +53,8 @@ function initialize() {
         });
 
   var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
+          suppressInfoWindows: false,
+          preserveViewport: true,
           map: map
         });
         kmlLayer.addListener('click', function(event) {
@@ -64,8 +64,8 @@ function initialize() {
         });
 
 var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
+          suppressInfoWindows: false,
+          preserveViewport: true,
           map: map
         });
         kmlLayer.addListener('click', function(event) {
@@ -75,8 +75,8 @@ var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
         });
 
 var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
+          suppressInfoWindows: false,
+          preserveViewport: true,
           map: map
         });
         kmlLayer.addListener('click', function(event) {
@@ -86,8 +86,8 @@ var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
         });
 
 var kmlLayer = new google.maps.KmlLayer(wwtp_site, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
+          suppressInfoWindows: false,
+          preserveViewport: true,
           map: map
         });
         kmlLayer.addListener('click', function(event) {
