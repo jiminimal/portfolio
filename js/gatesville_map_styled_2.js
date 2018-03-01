@@ -35,23 +35,23 @@ function initialize() {
           testimonial.innerHTML = content;
         });
 
-  var kmlLayer1 = new google.maps.KmlLayer(src1, {
+  var kmlLayer = new google.maps.KmlLayer(src1, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
         });
-        kmlLayer1.addListener('click', function(event) {
+        kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
 
-  var kmlLayer2 = new google.maps.KmlLayer(src2, {
+  var kmlLayer = new google.maps.KmlLayer(src2, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
         });
-        kmlLayer2.addListener('click', function(event) {
+        kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
