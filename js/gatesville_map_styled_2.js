@@ -17,7 +17,7 @@ function initialize() {
 
      // end of marker	
      // source for kmz
-  var src = '//kml/water_mains.kml';
+  var src = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
       // end of kmz source
 
 // starting kml import
