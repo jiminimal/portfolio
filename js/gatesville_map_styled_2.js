@@ -18,6 +18,8 @@ function initialize() {
      // end of marker	
      // source for kmz
   var src = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
+  var src1 ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
+  var src2 ='https://jiminimal.github.io/portfolio/kml/service_connections.kml';
       // end of kmz source
 
 // starting kml import
@@ -32,6 +34,31 @@ function initialize() {
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
+
+  var kmlLayer1 = new google.maps.KmlLayer(src1, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer1.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
+
+  var kmlLayer2 = new google.maps.KmlLayer(src2, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer2.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
+
+
+
 
 // ending kml import
 
