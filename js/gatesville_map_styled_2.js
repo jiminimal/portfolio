@@ -17,14 +17,20 @@ function initialize() {
 
      // end of marker	
      // sources for kmls
-  var src = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
-  var src1 ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
-  var src2 ='https://jiminimal.github.io/portfolio/kml/service_connections.kml';
+  var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
+  var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
+  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
+  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings.kml';
+  var network_structures ='https://jiminimal.github.io/portfolio/kml/network_structures.kml';
+  var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site.kml';
+
+
+
       // end of kml sources
 
 // starting kml import
 
-      var kmlLayer = new google.maps.KmlLayer(src, {
+      var kmlLayer = new google.maps.KmlLayer(water_mains, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
@@ -35,7 +41,7 @@ function initialize() {
           testimonial.innerHTML = content;
         });
 
-  var kmlLayer = new google.maps.KmlLayer(src1, {
+  var kmlLayer = new google.maps.KmlLayer(line_breaks, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
@@ -46,7 +52,7 @@ function initialize() {
           testimonial.innerHTML = content;
         });
 
-  var kmlLayer = new google.maps.KmlLayer(src2, {
+  var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
           suppressInfoWindows: true,
           preserveViewport: false,
           map: map
@@ -57,9 +63,38 @@ function initialize() {
           testimonial.innerHTML = content;
         });
 
+var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
 
+var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
 
-
+var kmlLayer = new google.maps.KmlLayer(wwtp_site, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
 // ending kml import
 
 

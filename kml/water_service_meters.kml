@@ -1,0 +1,4556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Water_Service_Connections" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Water Service Connections</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_81257dc8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.666667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Water Service Connections</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Are not shown at scales smaller than 1:2,400.  In some cases even at 1:100 scale, meter symbols will overlap one another. This is partly due to automated methods for creating meter features at the ends of laterals, particularly based on automated methods for creating laterals off of mains. Ideally meter features are located as precisely as possible relative to their real-world locations—in practice this is expensive without using GPS, which doesn’t deal with the lateral locations.  In this map, meters, are not the focus and therefore are not labeled—in a meter management map labels would be necessary.</description>
+		<Placemark id="ID_00000">
+			<name>WSRV-1</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72468846887108,31.43863359730794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>WSRV-2</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72502776875884,31.4395561259219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>WSRV-3</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72473607891038,31.43944399606413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>WSRV-4</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72425596811189,31.43954067708246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>WSRV-5</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72409938812321,31.43953667576866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>WSRV-6</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72426300929941,31.43943512694189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>WSRV-7</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72331718905318,31.43942539688639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>WSRV-8</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72281762831395,31.43943026758297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>WSRV-9</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72232980892862,31.4394231075589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>WSRV-10</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72186410864359,31.43951636611775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>WSRV-11</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72135682952727,31.43951350627957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>WSRV-12</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72376947796376,31.43942740639534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>WSRV-13</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72376075938928,31.43953181580092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>WSRV-14</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7235867592393,31.43953781636584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>WSRV-15</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72328366903875,31.43952923647935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>WSRV-16</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72259735935528,31.43952465727462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>WSRV-17</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72235226916077,31.43952208726131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>WSRV-18</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72187281914407,31.4394045169238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>WSRV-19</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72184063938714,31.43940537627793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>WSRV-20</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72134978935225,31.43939221621946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>WSRV-21</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72186410864359,31.43951636611775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>WSRV-22</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72109799939854,31.43951493574079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>WSRV-23</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72135682952727,31.43951350627957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>WSRV-24</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72066146910005,31.43949576633728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>WSRV-25</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72017699928988,31.43949490744991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>WSRV-26</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71968447987041,31.43947946628976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>WSRV-27</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72110907016562,31.43938392582582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>WSRV-28</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72063967977176,31.43939049742887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>WSRV-29</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72017532012214,31.43938964675353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>WSRV-30</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71970224997081,31.43937247625769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>WSRV-31</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928147994967,31.43911273685825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>WSRV-32</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71927276045314,31.43846911620679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>WSRV-33</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71939982847678,31.43836441583716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>WSRV-34</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71941156015825,31.43832093720973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>WSRV-35</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71927241990159,31.43809981720402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>WSRV-36</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71939747969395,31.4380340158086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>WSRV-37</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71970258036865,31.4377731369728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>WSRV-38</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72007037998566,31.4377822875915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>WSRV-39</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72017967868504,31.43788154754326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>WSRV-40</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72055356013261,31.43789388736357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>WSRV-41</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72066280942548,31.43778571745931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>WSRV-42</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116573024914,31.43815931594202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>WSRV-43</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72129513931573,31.43816331613975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>WSRV-44</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7212911201173,31.43834009736745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>WSRV-45</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72117075925344,31.43837814694244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>WSRV-46</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72170518906471,31.4377974472251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>WSRV-47</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72178732935274,31.43779944726431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>WSRV-48</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72187382863737,31.43790672641529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>WSRV-49</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72206895903038,31.43791215693382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>WSRV-50</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72215445911402,31.43780488696535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>WSRV-51</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72225335902584,31.43791129717859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>WSRV-52</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72237841877065,31.43780831686885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>WSRV-53</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72248905932938,31.43791358700567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>WSRV-54</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72260673875769,31.43781317639536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>WSRV-55</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72272006854121,31.43791530717073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>WSRV-56</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72284813906994,31.43781146732984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>WSRV-57</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72309791920362,31.43781632729555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>WSRV-58</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72316363797381,31.43791415755608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>WSRV-59</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72339698800693,31.43792617704304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>WSRV-60</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72353578821266,31.43783177738148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>WSRV-61</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72365078874233,31.4379258870865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>WSRV-62</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72380132946049,31.4378249068518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>WSRV-63</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72385698905558,31.43792989719732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>WSRV-64</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72403669908473,31.43782233722125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>WSRV-65</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72409704785315,31.43793561754409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>WSRV-66</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72474915899217,31.43783720712744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>WSRV-67</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72468410849072,31.4379433360997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>WSRV-68</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72477899887977,31.43794476658931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>WSRV-69</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72480045944022,31.43794362733405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>WSRV-70</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72488762761081,31.4387434460156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>WSRV-71</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7246626593578,31.4387442961575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>WSRV-72</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72518434846006,31.44021547702695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>WSRV-73</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72117276936319,31.44030558594518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>WSRV-74</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928046953767,31.43887302720842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>WSRV-75</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928047021507,31.43876003697734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>WSRV-76</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71970124048406,31.4386793674147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>WSRV-77</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71982394961856,31.43856751722617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>WSRV-78</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72009854033908,31.43868794739212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>WSRV-79</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72020415932811,31.43857409656624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>WSRV-80</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7204787487702,31.43868651641613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>WSRV-81</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72057362921437,31.43857781680019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>WSRV-82</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72074528956252,31.43869824616139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>WSRV-83</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72091258902977,31.43869652632564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>WSRV-84</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72088711009113,31.43869137606749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>WSRV-85</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72157611045115,31.4386993872132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>WSRV-86</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7216941197278,31.4385969771202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>WSRV-87</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72129681858695,31.43890477689808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>WSRV-88</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72193819932062,31.43871512681201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>WSRV-89</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72203912051751,31.43870882637479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>WSRV-90</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72234656862885,31.43872684756245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name>WSRV-91</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72207705876809,31.43861172673645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name>WSRV-92</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72247899910727,31.43860241749327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00092">
+			<name>WSRV-93</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72273213928257,31.43872999624512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00093">
+			<name>WSRV-94</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7228508294845,31.43860041735293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00094">
+			<name>WSRV-95</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72311535930622,31.43871941595243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00095">
+			<name>WSRV-96</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72323337864812,31.43863731661799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00096">
+			<name>WSRV-97</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72348080776048,31.43872970688323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00097">
+			<name>WSRV-98</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72363201941999,31.43862301616957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00098">
+			<name>WSRV-99</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72386938897341,31.43874830673436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00099">
+			<name>WSRV-100</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72398622915151,31.43865822623798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00100">
+			<name>WSRV-101</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72425931912881,31.43873600745283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00101">
+			<name>WSRV-102</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72437297814513,31.4386430361443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00102">
+			<name>WSRV-103</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72449065865901,31.43862901747042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00103">
+			<name>WSRV-104</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72476524798488,31.43864818754778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00104">
+			<name>WSRV-105</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72476625815386,31.44033848608357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00105">
+			<name>WSRV-106</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72424355936553,31.44020575576544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00106">
+			<name>WSRV-107</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72424992761215,31.44031445637511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00107">
+			<name>WSRV-108</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72374231934224,31.44020174595325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name>WSRV-109</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72373494788874,31.4403164559615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00109">
+			<name>WSRV-110</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72347845916944,31.44032618594341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00110">
+			<name>WSRV-111</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72322867884668,31.44030529607046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00111">
+			<name>WSRV-112</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72322565842447,31.44021204569053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00112">
+			<name>WSRV-113</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72270866922673,31.44019202654236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00113">
+			<name>WSRV-114</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7227079992099,31.44030758654156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00114">
+			<name>WSRV-115</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72220105941561,31.44031788652415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00115">
+			<name>WSRV-116</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72219904938224,31.44017714618436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00116">
+			<name>WSRV-117</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72169076902179,31.44017543700593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00117">
+			<name>WSRV-118</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72166025905125,31.44029385638538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00118">
+			<name>WSRV-119</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72143193897406,31.44016713586992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00119">
+			<name>WSRV-120</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72117879984552,31.43996432715386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00120">
+			<name>WSRV-121</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72232980892862,31.4394231075589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00121">
+			<name>WSRV-122</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116136935384,31.43745331676423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00122">
+			<name>WSRV-123</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116022988219,31.43726438686975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00123">
+			<name>WSRV-124</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116022892232,31.43706522714721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00124">
+			<name>WSRV-125</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7211545590001,31.43687088711548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00125">
+			<name>WSRV-126</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72115666894805,31.43665834738011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00126">
+			<name>WSRV-127</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116738929701,31.43646355742248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00127">
+			<name>WSRV-128</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72116722992055,31.43625805744401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00128">
+			<name>WSRV-129</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72115231950914,31.43608393720805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00129">
+			<name>WSRV-130</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72113538949864,31.43589872701836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00130">
+			<name>WSRV-131</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72112939004614,31.43570988671332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00131">
+			<name>WSRV-132</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7211417303384,31.43538355689171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00132">
+			<name>WSRV-133</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7192580598476,31.43493088692147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00133">
+			<name>WSRV-134</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71935323027238,31.4348830582727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00134">
+			<name>WSRV-135</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71936522997399,31.4350995573476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00135">
+			<name>WSRV-136</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71925189025097,31.43527605746981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00136">
+			<name>WSRV-137</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7193665602302,31.43544838751588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00137">
+			<name>WSRV-138</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71926223043089,31.4355923871154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00138">
+			<name>WSRV-139</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71937922910905,31.43577105745504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00139">
+			<name>WSRV-140</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71929738997912,31.43590872685505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00140">
+			<name>WSRV-141</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71939372959652,31.43608022729059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00141">
+			<name>WSRV-142</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928688960639,31.43625972703227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00142">
+			<name>WSRV-143</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71939989021949,31.43641488751826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00143">
+			<name>WSRV-144</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928689029487,31.43659822758154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00144">
+			<name>WSRV-145</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71937206022319,31.43675988720883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00145">
+			<name>WSRV-146</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71927856040617,31.43692838697848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00146">
+			<name>WSRV-147</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71928988976546,31.43694222742519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00147">
+			<name>WSRV-148</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71937738954657,31.43711122678552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00148">
+			<name>WSRV-149</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71926438023209,31.43726165650505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00149">
+			<name>WSRV-150</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71939915977602,31.43742041684909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00150">
+			<name>WSRV-151</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71927040855773,31.43757803701604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00151">
+			<name>WSRV-152</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72023231988702,31.43743986701117,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00152">
+			<name>WSRV-153</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72035770849861,31.43725106713842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00153">
+			<name>WSRV-154</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72023667976447,31.43721674696226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00154">
+			<name>WSRV-155</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72034362990176,31.4370691373498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00155">
+			<name>WSRV-156</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022628012498,31.43706484587914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00156">
+			<name>WSRV-157</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022359992023,31.43683227727659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00157">
+			<name>WSRV-158</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72034967006901,31.43682283723911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00158">
+			<name>WSRV-159</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022695013243,31.43664147698528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00159">
+			<name>WSRV-160</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72033155897763,31.43664147631623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00160">
+			<name>WSRV-161</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7202205788621,31.43644294759103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00161">
+			<name>WSRV-162</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72034028003962,31.43644723742604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00162">
+			<name>WSRV-163</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022326963571,31.43626157709395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00163">
+			<name>WSRV-164</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7203342398907,31.43608221691487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00164">
+			<name>WSRV-165</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022359970688,31.43607077691121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00165">
+			<name>WSRV-166</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72032820996964,31.43582475690399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00166">
+			<name>WSRV-167</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72023835034524,31.43567342730659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00167">
+			<name>WSRV-168</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72034128047007,31.43565311701764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00168">
+			<name>WSRV-169</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72022560950887,31.4354585968831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00169">
+			<name>WSRV-170</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72032451967539,31.4354763275258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00170">
+			<name>WSRV-171</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72021589011162,31.43501060701466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00171">
+			<name>WSRV-172</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71845638948044,31.43863655684105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00172">
+			<name>WSRV-173</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71829978993698,31.43859183572753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00173">
+			<name>WSRV-174</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71832272985391,31.43845372620903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00174">
+			<name>WSRV-175</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71844438948371,31.43837338602844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00175">
+			<name>WSRV-176</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71841839018904,31.43809638650025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00176">
+			<name>WSRV-177</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71832122972111,31.43810138759476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00177">
+			<name>WSRV-178</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71843838979531,31.43754272716567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00178">
+			<name>WSRV-179</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71824278966248,31.43629018702309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00179">
+			<name>WSRV-180</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71845301036528,31.43654192573808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00180">
+			<name>WSRV-181</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71837589130634,31.43669181730414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00181">
+			<name>WSRV-182</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71854520954001,31.43679966749146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00182">
+			<name>WSRV-183</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71833600110804,31.43711719615744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00183">
+			<name>WSRV-184</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71844395997707,31.43721359700485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00184">
+			<name>WSRV-185</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71831521093816,31.43754800652076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00185">
+			<name>WSRV-186</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71836349138189,31.43619521680778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00186">
+			<name>WSRV-187</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71819939047548,31.43584855686428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00187">
+			<name>WSRV-188</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71831756126963,31.43579729685577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00188">
+			<name>WSRV-189</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71820758956292,31.43538993722612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00189">
+			<name>WSRV-190</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71833297968776,31.4353659075983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00190">
+			<name>WSRV-191</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71827430963614,31.43493851737082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00191">
+			<name>WSRV-192</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71840607040491,31.43495282737768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00192">
+			<name>WSRV-193</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71833823125559,31.43483372698123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00193">
+			<name>WSRV-194</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71837824102343,31.43472854725006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00194">
+			<name>WSRV-195</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71744550132513,31.43499430689038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00195">
+			<name>WSRV-196</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71732715125127,31.43498800745843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00196">
+			<name>WSRV-197</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71732480070874,31.43521371726552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00197">
+			<name>WSRV-198</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7174451704545,31.43542168683355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00198">
+			<name>WSRV-199</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71732514058647,31.43560677752454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00199">
+			<name>WSRV-200</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7174612603804,31.43567514679736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00200">
+			<name>WSRV-201</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71733116990791,31.4360218574516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00201">
+			<name>WSRV-202</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71745690015403,31.43602929742531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00202">
+			<name>WSRV-203</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71733586980847,31.43643121700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00203">
+			<name>WSRV-204</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71746964131509,31.436442085711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00204">
+			<name>WSRV-205</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71746427983449,31.43682969585407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00205">
+			<name>WSRV-206</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71734324019231,31.43681797673125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00206">
+			<name>WSRV-207</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71734123002798,31.43689578592453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00207">
+			<name>WSRV-208</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71747869958493,31.43725364699124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00208">
+			<name>WSRV-209</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71747165098265,31.43727052676825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00209">
+			<name>WSRV-210</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71734760060643,31.43728854763164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00210">
+			<name>WSRV-211</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71734626062408,31.4375399962593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00211">
+			<name>WSRV-212</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71746964039521,31.43763954584665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00212">
+			<name>WSRV-213</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71764973024041,31.4378407271444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00213">
+			<name>WSRV-214</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71655970129193,31.43529324683596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00214">
+			<name>WSRV-215</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71641252138961,31.43528923669533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00215">
+			<name>WSRV-216</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71641554092642,31.43577040690453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00216">
+			<name>WSRV-217</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71654193137,31.43578699636819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00217">
+			<name>WSRV-218</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7164095010767,31.43586652756682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00218">
+			<name>WSRV-219</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71644905947539,31.43586655696443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00219">
+			<name>WSRV-220</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71656708060839,31.4362678775336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00220">
+			<name>WSRV-221</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71656037060805,31.43662945700534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00221">
+			<name>WSRV-222</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71641587063736,31.43677506734859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00222">
+			<name>WSRV-223</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70925169216082,31.42972391811551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00223">
+			<name>WSRV-224</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71016968227748,31.42985808712888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00224">
+			<name>WSRV-225</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71066857155247,31.42986352745787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00225">
+			<name>WSRV-226</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7113629222015,31.43069116797045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00226">
+			<name>WSRV-227</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71088884237432,31.43069059781862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00227">
+			<name>WSRV-228</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71041141297388,31.43068715810667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00228">
+			<name>WSRV-229</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70992392316394,31.43069202708033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00229">
+			<name>WSRV-230</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70944984208465,31.43066312789303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00230">
+			<name>WSRV-231</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70838433319391,31.43228548743074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00231">
+			<name>WSRV-232</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70893385262643,31.43127991824666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00232">
+			<name>WSRV-233</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70969895249614,31.42986466811792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00233">
+			<name>WSRV-234</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70969995189509,31.42974022822321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00234">
+			<name>WSRV-235</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71017571214632,31.42973736803724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00235">
+			<name>WSRV-236</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71065523295155,31.42972855840525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00236">
+			<name>WSRV-237</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71112588202512,31.42986524775529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00237">
+			<name>WSRV-238</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71178202219235,31.43098553741517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00238">
+			<name>WSRV-239</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7117800119656,31.43101414834058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00239">
+			<name>WSRV-240</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71178135207271,31.43103588722246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00240">
+			<name>WSRV-241</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71179610148863,31.43103560823323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00241">
+			<name>WSRV-242</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71136225347296,31.4305529882492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00242">
+			<name>WSRV-243</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71088985296774,31.43055784736344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00243">
+			<name>WSRV-244</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71042516236423,31.43055584777628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00244">
+			<name>WSRV-245</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70991990236917,31.43055727783759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00245">
+			<name>WSRV-246</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70943509317085,31.43055641857455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00246">
+			<name>WSRV-247</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70894339255118,31.43153488747348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00247">
+			<name>WSRV-248</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70921439341954,31.43152272770192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00248">
+			<name>WSRV-249</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70968520252612,31.43153996699533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00249">
+			<name>WSRV-250</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71017068325243,31.4315448278239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00250">
+			<name>WSRV-251</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71064979301377,31.43152994724553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00251">
+			<name>WSRV-252</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7111188425087,31.43150906756313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00252">
+			<name>WSRV-253</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71138002229473,31.43151249832979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00253">
+			<name>WSRV-254</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7118041519125,31.43182489860019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00254">
+			<name>WSRV-255</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71180314246135,31.43183347845851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00255">
+			<name>WSRV-256</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71179375212967,31.43185979728677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00256">
+			<name>WSRV-257</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71179811184899,31.43186666731816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00257">
+			<name>WSRV-258</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70893385262643,31.43127991824666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00258">
+			<name>WSRV-259</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70945554198559,31.43139320850924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00259">
+			<name>WSRV-260</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7099068233169,31.43138805827245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00260">
+			<name>WSRV-261</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71042348193139,31.43137804709569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00261">
+			<name>WSRV-262</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71093578343606,31.43138090822765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00262">
+			<name>WSRV-263</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71139545312033,31.43138147797931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00263">
+			<name>WSRV-264</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71178235194856,31.43235185724581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00264">
+			<name>WSRV-265</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71180381219712,31.43302241705877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00265">
+			<name>WSRV-266</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71136393174825,31.43234870734454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00266">
+			<name>WSRV-267</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71086906200121,31.43235185819071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00267">
+			<name>WSRV-268</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71040035260307,31.43234069726572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00268">
+			<name>WSRV-269</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71139947177687,31.4321965171021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00269">
+			<name>WSRV-270</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71092237208676,31.43221281771177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00270">
+			<name>WSRV-271</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71091298163229,31.43219880800148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00271">
+			<name>WSRV-272</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71041107295706,31.43219536717769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00272">
+			<name>WSRV-273</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7099437029481,31.43221081730796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00273">
+			<name>WSRV-274</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70945688335622,31.43220166683882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00274">
+			<name>WSRV-275</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70894894223315,31.43220795699832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00275">
+			<name>WSRV-276</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70988503207053,31.43235928672371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00276">
+			<name>WSRV-277</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70942000146283,31.43235471795347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00277">
+			<name>WSRV-278</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70865926282674,31.43235642813096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00278">
+			<name>WSRV-279</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70847318188584,31.43304300697505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00279">
+			<name>WSRV-280</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70880644255996,31.43302956746124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00280">
+			<name>WSRV-281</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70920911275664,31.43300782674195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00281">
+			<name>WSRV-282</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70958026251684,31.43304157686389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00282">
+			<name>WSRV-283</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70988570329601,31.43304472704045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00283">
+			<name>WSRV-284</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71028367330022,31.43303957680216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00284">
+			<name>WSRV-285</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71090963152771,31.43303070792532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00285">
+			<name>WSRV-286</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71138941231708,31.43302069718362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00286">
+			<name>WSRV-287</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71180012192406,31.43335826727161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00287">
+			<name>WSRV-288</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71179308173065,31.433370276779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00288">
+			<name>WSRV-289</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70792473317157,31.43333138751697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00289">
+			<name>WSRV-290</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70840914297837,31.43315114752845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00290">
+			<name>WSRV-291</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70906159150292,31.43312253790623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00291">
+			<name>WSRV-292</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70938547331535,31.43313369712053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00292">
+			<name>WSRV-293</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70958127286571,31.43312139748435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00293">
+			<name>WSRV-294</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71005468181359,31.4331465667532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00294">
+			<name>WSRV-295</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71036112235699,31.43313340844263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00295">
+			<name>WSRV-296</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71080502199631,31.43313855845409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00296">
+			<name>WSRV-297</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7113025715048,31.43314256822069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00297">
+			<name>WSRV-298</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71165026194309,31.43361200794467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00298">
+			<name>WSRV-299</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71178638179613,31.43378193700505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00299">
+			<name>WSRV-300</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71178068162617,31.43377507724157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00300">
+			<name>WSRV-301</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70998930234231,31.43892651620871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00301">
+			<name>WSRV-302</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70999634176627,31.43892937586573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00302">
+			<name>WSRV-303</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70999366308244,31.43895598613966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00303">
+			<name>WSRV-304</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70999332214829,31.43896828614874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00304">
+			<name>WSRV-305</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71164355230387,31.43855721605813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00305">
+			<name>WSRV-306</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71162056178659,31.4385652260419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00306">
+			<name>WSRV-307</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71135356170637,31.4385632275922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00307">
+			<name>WSRV-308</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7113370614849,31.43856255579698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00308">
+			<name>WSRV-309</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7113122324475,31.43856888625763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00309">
+			<name>WSRV-310</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71130123157207,31.43856805656561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00310">
+			<name>WSRV-311</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71078139187956,31.43855422590657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00311">
+			<name>WSRV-312</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71076539190243,31.43855272643504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00312">
+			<name>WSRV-313</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7107423920031,31.43855172604209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00313">
+			<name>WSRV-314</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71072006251548,31.43855555629406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00314">
+			<name>WSRV-315</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7102525622454,31.43854072620833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00315">
+			<name>WSRV-316</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70995946157012,31.43944427640764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00316">
+			<name>WSRV-317</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71024723221201,31.43853788643435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00317">
+			<name>WSRV-318</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70995409252831,31.43945428626145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00318">
+			<name>WSRV-319</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71022873225164,31.43853638596757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00319">
+			<name>WSRV-320</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70994068297034,31.43948175629285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00320">
+			<name>WSRV-321</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71021989224633,31.43853638624545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00321">
+			<name>WSRV-322</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70993565206089,31.43949090659657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00322">
+			<name>WSRV-323</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70965201200555,31.43853833599464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00323">
+			<name>WSRV-324</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70979249238543,31.44007817618857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00324">
+			<name>WSRV-325</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70964889221281,31.4385457261897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00325">
+			<name>WSRV-326</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70932646320591,31.44003011526199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00326">
+			<name>WSRV-327</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70890937148577,31.439913976207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00327">
+			<name>WSRV-328</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70958639303163,31.43853038631046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00328">
+			<name>WSRV-329</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7089123932375,31.43990425625587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00329">
+			<name>WSRV-330</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70891406193432,31.43988255589885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00330">
+			<name>WSRV-331</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70891071234863,31.43986563657151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00331">
+			<name>WSRV-332</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70986039344109,31.43888805596388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00332">
+			<name>WSRV-333</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7098670615982,31.43890272663541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00333">
+			<name>WSRV-334</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7098683917183,31.43891955660808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00334">
+			<name>WSRV-335</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70987073330079,31.438933726574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00335">
+			<name>WSRV-336</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70981965228641,31.43944027595837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00336">
+			<name>WSRV-337</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70981730190073,31.43944513608441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00337">
+			<name>WSRV-338</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70981227155382,31.4394625864004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00338">
+			<name>WSRV-339</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70981026213624,31.43946945624409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00339">
+			<name>WSRV-340</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7098028919085,31.44006655594576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00340">
+			<name>WSRV-341</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70980789152982,31.44007172575516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00341">
+			<name>WSRV-342</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70926007184568,31.43987135573297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00342">
+			<name>WSRV-343</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70926289280111,31.43986572578673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00343">
+			<name>WSRV-344</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70924623202318,31.43985855660084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00344">
+			<name>WSRV-345</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70924206213154,31.43985655623038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00345">
+			<name>WSRV-346</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70921950282326,31.43906554591832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00346">
+			<name>WSRV-347</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70922123221472,31.43906605646621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00347">
+			<name>WSRV-348</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70914742201607,31.43919083660691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00348">
+			<name>WSRV-349</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70914943296694,31.43922086648828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00349">
+			<name>WSRV-350</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70913334294141,31.43920427575623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00350">
+			<name>WSRV-351</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70912026351918,31.4392105763018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00351">
+			<name>WSRV-352</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70911892297983,31.43850629578851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00352">
+			<name>WSRV-353</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70910752349218,31.4385274659835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00353">
+			<name>WSRV-354</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70892614191088,31.4390263562062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00354">
+			<name>WSRV-355</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70890956257944,31.43906005645994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00355">
+			<name>WSRV-356</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70890906235773,31.43906322642974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00356">
+			<name>WSRV-357</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70892647331613,31.43901948657675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00357">
+			<name>WSRV-358</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70911956184646,31.43853055715482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00358">
+			<name>WSRV-359</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70911557183499,31.4385397659211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00359">
+			<name>WSRV-360</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70911139312715,31.43789772729523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00360">
+			<name>WSRV-361</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70809773311014,31.43771238672493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00361">
+			<name>WSRV-362</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70807889211667,31.43771655593074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00362">
+			<name>WSRV-363</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70776773350947,31.4377713870561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00363">
+			<name>WSRV-364</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70697939314455,31.43770072700974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00364">
+			<name>WSRV-365</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70696139297691,31.43770405586908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00365">
+			<name>WSRV-366</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70593289283174,31.43761188583801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00366">
+			<name>WSRV-367</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70590973270538,31.43760772654125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00367">
+			<name>WSRV-368</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70578773301911,31.43775138689425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00368">
+			<name>WSRV-369</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70578006264967,31.43776938609216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00369">
+			<name>WSRV-370</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70769656333488,31.43830455598212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00370">
+			<name>WSRV-371</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70769773332312,31.4383195565726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00371">
+			<name>WSRV-372</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70789023261153,31.43842105583558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00372">
+			<name>WSRV-373</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70788673270081,31.43842422587112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00373">
+			<name>WSRV-374</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70768173340676,31.43927172582638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00374">
+			<name>WSRV-375</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70768139331489,31.43927155641116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00375">
+			<name>WSRV-376</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70985753305337,31.43788040622245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00376">
+			<name>WSRV-377</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71000137276991,31.43788383673665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00377">
+			<name>WSRV-378</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71017705218981,31.43775167644313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00378">
+			<name>WSRV-379</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71022231157262,31.43762981589833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00379">
+			<name>WSRV-380</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71006038253229,31.43760978575704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00380">
+			<name>WSRV-381</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7100322124145,31.43736148594855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00381">
+			<name>WSRV-382</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71023036221,31.43729998755069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00382">
+			<name>WSRV-383</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71021460329597,31.43728940637045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00383">
+			<name>WSRV-384</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71028367202308,31.43745531739926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00384">
+			<name>WSRV-385</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71029406231332,31.43788068612788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00385">
+			<name>WSRV-386</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71040940160022,31.4378892760879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00386">
+			<name>WSRV-387</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71059639189544,31.43789488680221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00387">
+			<name>WSRV-388</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71080301262087,31.43788698588654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00388">
+			<name>WSRV-389</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71101389151539,31.43789122690319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00389">
+			<name>WSRV-390</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7112198921368,31.43790305578657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00390">
+			<name>WSRV-391</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71142294118016,31.43789699715586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00391">
+			<name>WSRV-392</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71162377075021,31.43789699705243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00392">
+			<name>WSRV-393</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71181839213568,31.43789488693397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00393">
+			<name>WSRV-394</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71191489202886,31.43764372759292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00394">
+			<name>WSRV-395</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71191923213921,31.43744022701281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00395">
+			<name>WSRV-396</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71191256210294,31.43724105642057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00396">
+			<name>WSRV-397</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71190238175851,31.43703566753845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00397">
+			<name>WSRV-398</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71190976223964,31.43683456715276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00398">
+			<name>WSRV-399</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71116273229288,31.43680772744828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00399">
+			<name>WSRV-400</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71115989208529,31.43697288736386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00400">
+			<name>WSRV-401</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71099513245191,31.43714379620918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00401">
+			<name>WSRV-402</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7111688024888,31.43714036708075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00402">
+			<name>WSRV-403</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71099923203266,31.43731772612916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00403">
+			<name>WSRV-404</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71115573168743,31.43732405705228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00404">
+			<name>WSRV-405</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71099406244295,31.43749105609206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00405">
+			<name>WSRV-406</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7111634324018,31.43748850655722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00406">
+			<name>WSRV-407</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70931256220786,31.43748488573854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00407">
+			<name>WSRV-408</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70913973326952,31.43747622638804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00408">
+			<name>WSRV-409</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70915647157686,31.4372690961445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00409">
+			<name>WSRV-410</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70931204254647,31.43703452650463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00410">
+			<name>WSRV-411</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71097836241717,31.43765670692706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00411">
+			<name>WSRV-412</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71115438223477,31.43765412607799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00412">
+			<name>WSRV-413</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70993398252934,31.43670268705865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00413">
+			<name>WSRV-414</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70992828191311,31.43653476646672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00414">
+			<name>WSRV-415</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71051367249851,31.4367061258186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00415">
+			<name>WSRV-416</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71047813221375,31.43656165635756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00416">
+			<name>WSRV-417</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71090058155698,31.43671699742948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00417">
+			<name>WSRV-418</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70915156291974,31.43658222644905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00418">
+			<name>WSRV-419</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70915923258435,31.43615938713663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00419">
+			<name>WSRV-420</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70917439221225,31.43566738733485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00420">
+			<name>WSRV-421</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70919123329604,31.43516372728126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00421">
+			<name>WSRV-422</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70936506185502,31.43518605733212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00422">
+			<name>WSRV-423</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7099115627605,31.43561805733019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00423">
+			<name>WSRV-424</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71035123193755,31.43559155597345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00424">
+			<name>WSRV-425</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71038206252821,31.4357878875601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00425">
+			<name>WSRV-426</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.70994423309567,31.43577055677972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00426">
+			<name>WSRV-427</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7093352318539,31.43615105744446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00427">
+			<name>WSRV-428</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72572205909808,31.43707022726166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00428">
+			<name>WSRV-429</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72634255773036,31.43697022707086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00429">
+			<name>WSRV-430</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72682122837983,31.43708838703453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00430">
+			<name>WSRV-431</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72778338817999,31.43707888675142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00431">
+			<name>WSRV-432</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72847239838642,31.43707142738651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00432">
+			<name>WSRV-433</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72907455697451,31.4370605571128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00433">
+			<name>WSRV-434</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72957008836092,31.4370433869142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00434">
+			<name>WSRV-435</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72966262655166,31.43706570739411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00435">
+			<name>WSRV-436</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73027772753609,31.43703855739638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00436">
+			<name>WSRV-437</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73068018696782,31.43771362710991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00437">
+			<name>WSRV-438</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73080638735198,31.43706388687147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00438">
+			<name>WSRV-439</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73147076693633,31.43704310704659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00439">
+			<name>WSRV-440</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72542138883325,31.43693954710877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00440">
+			<name>WSRV-441</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7254173584283,31.43693582753602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00441">
+			<name>WSRV-442</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.725778457838,31.43693783758656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00442">
+			<name>WSRV-443</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72591722804118,31.43695838756084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00443">
+			<name>WSRV-444</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72603292928643,31.43692953687863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00444">
+			<name>WSRV-445</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7262488494689,31.43693554746365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00445">
+			<name>WSRV-446</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72648856845603,31.43691208708291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00446">
+			<name>WSRV-447</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72678696768624,31.43693096715901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00447">
+			<name>WSRV-448</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7271675575978,31.43693005741621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00448">
+			<name>WSRV-449</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7273924784219,31.43692581741395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00449">
+			<name>WSRV-450</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72757217672219,31.43692867728735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00450">
+			<name>WSRV-451</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72784205763664,31.4369298874127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00451">
+			<name>WSRV-452</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72833426656121,31.43692324720945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00452">
+			<name>WSRV-453</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72850525721378,31.43691980738105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00453">
+			<name>WSRV-454</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7289022169472,31.43691637754854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00454">
+			<name>WSRV-455</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72908595832102,31.43691265756779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00455">
+			<name>WSRV-456</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72934713694407,31.4369103670001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00456">
+			<name>WSRV-457</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72947051802484,31.43691408686252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00457">
+			<name>WSRV-458</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72948392666845,31.4369132370528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00458">
+			<name>WSRV-459</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72969984854633,31.43691752751052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00459">
+			<name>WSRV-460</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7299838865149,31.43690205722706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00460">
+			<name>WSRV-461</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73024322693112,31.43691622707532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00461">
+			<name>WSRV-462</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73054741717394,31.43692924697278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00462">
+			<name>WSRV-463</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73216445734519,31.42906506886706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00463">
+			<name>WSRV-464</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73229420689958,31.42870687900566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00464">
+			<name>WSRV-465</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73233242741632,31.42862534938516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00465">
+			<name>WSRV-466</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73243602659556,31.42836900820002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00466">
+			<name>WSRV-467</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73251850723057,31.42807576917945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00467">
+			<name>WSRV-468</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73255941719736,31.42796962876347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00468">
+			<name>WSRV-469</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73261003745932,31.4278354589042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00469">
+			<name>WSRV-470</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.732767617409,31.42742577878011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00470">
+			<name>WSRV-471</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73255639713821,31.42739258906818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00471">
+			<name>WSRV-472</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73216814702015,31.42729302896197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00472">
+			<name>WSRV-473</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73187276689988,31.42723094881509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00473">
+			<name>WSRV-474</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73130715688666,31.42709991939645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00474">
+			<name>WSRV-475</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73105033796459,31.42701379944064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00475">
+			<name>WSRV-476</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73091605836332,31.42697422950671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00476">
+			<name>WSRV-477</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7307073478222,31.42692367917457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00477">
+			<name>WSRV-478</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73051992730674,31.42687132884725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00478">
+			<name>WSRV-479</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73097456654057,31.42706844928314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00479">
+			<name>WSRV-480</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73096249651807,31.42730503938426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00480">
+			<name>WSRV-481</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73090884806025,31.4273963095997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00481">
+			<name>WSRV-482</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7308357567109,31.4272157795074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00482">
+			<name>WSRV-483</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7307438976143,31.42751360950211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00483">
+			<name>WSRV-484</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7308605670172,31.42755193881391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00484">
+			<name>WSRV-485</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73082871739619,31.4277118693782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00485">
+			<name>WSRV-486</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73066711655297,31.4277021393256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00486">
+			<name>WSRV-487</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.730588996507,31.42791555920071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00487">
+			<name>WSRV-488</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73072880648539,31.42795246920378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00488">
+			<name>WSRV-489</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73055982839159,31.4280245593244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00489">
+			<name>WSRV-490</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73067113698055,31.42811496946514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00490">
+			<name>WSRV-491</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73060810704963,31.42827545958363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00491">
+			<name>WSRV-492</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73130816853539,31.42909309847273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00492">
+			<name>WSRV-493</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73131587703806,31.42908966842411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00493">
+			<name>WSRV-494</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73125149728271,31.42891343945337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00494">
+			<name>WSRV-495</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73193814853965,31.42927876936808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00495">
+			<name>WSRV-496</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73194987652559,31.4292564593318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00496">
+			<name>WSRV-497</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73201693650222,31.42908537878631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00497">
+			<name>WSRV-498</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7321369673941,31.42875208882916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00498">
+			<name>WSRV-499</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73219898687074,31.42858185826564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00499">
+			<name>WSRV-500</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73220636694916,31.42856469897307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00500">
+			<name>WSRV-501</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73226369646845,31.42836643903592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00501">
+			<name>WSRV-502</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7323260575221,31.42818162921106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00502">
+			<name>WSRV-503</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73239747669821,31.42803056897885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00503">
+			<name>WSRV-504</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73177553662839,31.42744694878341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00504">
+			<name>WSRV-505</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73166657802977,31.42774562881517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00505">
+			<name>WSRV-506</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73167696726115,31.42770785904514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00506">
+			<name>WSRV-507</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73179498699268,31.42779225938341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00507">
+			<name>WSRV-508</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73172658714597,31.42796104904346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00508">
+			<name>WSRV-509</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73168903656826,31.4280689082619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00509">
+			<name>WSRV-510</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7315053072103,31.42813927939267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00510">
+			<name>WSRV-511</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7315807365776,31.42834268954743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00511">
+			<name>WSRV-512</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73146406650893,31.42830120935927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00512">
+			<name>WSRV-513</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73157369741185,31.42841020952155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00513">
+			<name>WSRV-514</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73138560683383,31.42850347928599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00514">
+			<name>WSRV-515</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7313648264507,31.42859129882017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00515">
+			<name>WSRV-516</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73144361731184,31.42876094823478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00516">
+			<name>WSRV-517</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73144428722186,31.42876152792848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00517">
+			<name>WSRV-518</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.731355766939,31.42900870923836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00518">
+			<name>WSRV-519</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74243338356673,31.43278072905489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00519">
+			<name>WSRV-520</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74243838367032,31.43256255861043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00520">
+			<name>WSRV-521</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74244255545523,31.43232888820366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00521">
+			<name>WSRV-522</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74242222416223,31.43185779832831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00522">
+			<name>WSRV-523</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7424480551139,31.43179905918115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00523">
+			<name>WSRV-524</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74243722449856,31.43161755903589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00524">
+			<name>WSRV-525</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74258505408037,31.43141688917348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00525">
+			<name>WSRV-526</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74214495475758,31.43098582907976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00526">
+			<name>WSRV-527</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7421395945336,31.43083305802783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00527">
+			<name>WSRV-528</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74214838550959,31.4302398890398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00528">
+			<name>WSRV-529</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74213955536112,31.42996155941249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00529">
+			<name>WSRV-530</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74233036507394,31.43292543775794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00530">
+			<name>WSRV-531</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74234343382884,31.43297463945826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00531">
+			<name>WSRV-532</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74232566431887,31.4328745178636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00532">
+			<name>WSRV-533</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74232768396062,31.43285334780539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00533">
+			<name>WSRV-534</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74233405535259,31.43274663796452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00534">
+			<name>WSRV-535</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74231426472595,31.43250890862806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00535">
+			<name>WSRV-536</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74230722415578,31.43231580791956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00536">
+			<name>WSRV-537</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74232600488627,31.43205433795487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00537">
+			<name>WSRV-538</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74232332412804,31.4319164492468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00538">
+			<name>WSRV-539</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74231024384166,31.43177340782852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00539">
+			<name>WSRV-540</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74231795415321,31.43171590842013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00540">
+			<name>WSRV-541</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74231963364863,31.43155912875487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00541">
+			<name>WSRV-542</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74203666480034,31.43093661882531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00542">
+			<name>WSRV-543</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74204806530891,31.43060562935114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00543">
+			<name>WSRV-544</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74204705426065,31.43043340880925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00544">
+			<name>WSRV-545</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74204738347605,31.4299905489934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00545">
+			<name>WSRV-546</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74205238521732,31.42981572890914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00546">
+			<name>WSRV-547</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74204788503782,31.42976255944291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00547">
+			<name>WSRV-548</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74205912487335,31.42968586944883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00548">
+			<name>WSRV-549</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74206972440771,31.42942355912593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00549">
+			<name>WSRV-550</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74214931535894,31.4297539589045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00550">
+			<name>WSRV-551</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7421486447423,31.42943783879346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00551">
+			<name>WSRV-552</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74215702402978,31.43064195823435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00552">
+			<name>WSRV-553</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.79267977101539,31.43461040046795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00553">
+			<name>WSRV-554</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.79442287001316,31.43533555982461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00554">
+			<name>WSRV-555</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.79517489129877,31.43553068028742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00555">
+			<name>WSRV-556</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7962460997926,31.43575410000049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00556">
+			<name>WSRV-557</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.79774970983733,31.43607722987031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00557">
+			<name>WSRV-558</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.80034570975407,31.43678172953723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00558">
+			<name>WSRV-559</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.80203286915601,31.43720723004345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00559">
+			<name>WSRV-560</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.80297609938872,31.43738437976379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00560">
+			<name>WSRV-561</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.81158120722293,31.43660989037885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00561">
+			<name>WSRV-562</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.81124500689347,31.43608507979414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00562">
+			<name>WSRV-563</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.81180659669229,31.43467849048669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00563">
+			<name>WSRV-564</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.81428059623234,31.42754508248132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00564">
+			<name>WSRV-565</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.81537470632898,31.42533939242831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00565">
+			<name>WSRV-566</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.79694104076236,31.43637555939257,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
