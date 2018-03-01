@@ -16,11 +16,11 @@ function initialize() {
   towncenterMarker.setMap(map);
 
      // end of marker	
-     // source for kmz
+     // sources for kmls
   var src = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
   var src1 ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
   var src2 ='https://jiminimal.github.io/portfolio/kml/service_connections.kml';
-      // end of kmz source
+      // end of kml sources
 
 // starting kml import
 
