@@ -13,22 +13,23 @@ function initialize() {
 
 var contentString = '<div id="content">'+
             '<div id="siteNotice">'+
+            '<h1> Stonehenge</h1>'+
             '</div>'+
-            '<h1 id="firstHeading" class="firstHeading">Stonehenge</h1>'+
+            
             '<div id="bodyContent">'+
-            '<p>In ancient times, ' +
-            'hundreds of years before the dawn of history. ' +
-            'lived a strange race of people, the Druids.  '+
+            'In ancient times, ' +
+            'hundreds of years before the dawn of history, ' +
+            '<br>lived a strange race of people, the Druids.  '+
             '<p>No one knows who they were or what they were doing, '+
-            'but their legacy remains, '+
-            'hewn into the living rock, of Stonehenge ... '+
-            '<p><b>Stonehenge!</b> Where the demons dwell '+
-            'where the banshees live and they do live well '+
-            '<b>Stonehenge!</b> Where a man"s a man '+
-            'and the children dance, to the pipes of Pan '+
-            '<b>Hey!</b></p>'+
-            '<p>If you don"t get yet it click here to watch: <a href="https://www.youtube.com/watch?v=qAXzzHM8zLw">'+
-            '"Stonehenge" by Spinal Tap, on YouTube</a> '+
+            '<br>but their legacy remains, '+
+            '<br>hewn into the living rock, of Stonehenge ... '+
+            '<p><b>Stonehenge!</b> Where the demons dwell, '+
+            '<br>where the banshees live, and they do live well. '+
+            '<br><b>Stonehenge!</b> Where a man"s a man, '+
+            '<br>and the children dance, to the pipes of Pan '+
+            '<br><b>Hey!</b></p>'+
+            '<p>If you don"t get it yet, click here: <a href="https://www.youtube.com/watch?v=qAXzzHM8zLw">'+
+            '"Stonehenge"</a> '+
             '</p>'+
             '</div>'+
             '</div>';

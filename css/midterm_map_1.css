@@ -33,6 +33,11 @@
   color: white;
   text-align: left}
 
+  #bodyContent {text-align: left
+  }
+
+  #siteNotice {text-align: left
+  }
   
 #map_canvas { 
   width:400px; 
