@@ -8,11 +8,26 @@
   </head>
 
   <body>
+
     <h1>The Developing Bones of a Utility Map for Gatesville, TX - Now with markers!</h1>
-   <h2>This map shows some of the large utility features in the city of Gatesville, including water tanks, water mains, and treatment facilites.</h2>
-   <h2>The map is centered on the town center because the majority of the assets are there.</h2>
+
+    <div id = "header_text">
+    
+   <p>This map shows some of the large utility features in the city of Gatesville, including water tanks, water mains, and treatment facilites. I'm also experimenting with dislaying smaller features such as customer meters, water mains repairs, and reported leaks. </p>
+   <p>The map is centered on the geographic middle of Gatesville because the majority of the utility assets lie within the area displayed with that geographic center at a zoom level of 15.</p>
 
 
+
+<!-- trial check box -->
+<input type="checkbox" id="show_hide_water_mains" 
+onClick="togglewater_mains();" />Show/Hide Water Mains Layer 
+
+
+
+<!-- end trial dheckbox -->
+
+
+</div>
 
   <!-- map style dropdown box controls -->
   
@@ -47,5 +62,21 @@
     <script async defer 
       src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
       </script>
+
+
+
+      <!-- load toggle script -->
+
+<script src="js/toggles.js"></script> 
+
+
+    <!-- Load the API in asynchronous mode and execute the initialize function when done -->
+    
+    
+    <script async defer 
+      src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
+      </script>
+
+      <!-- end of toggle script load -->
   </body>
 </html>
