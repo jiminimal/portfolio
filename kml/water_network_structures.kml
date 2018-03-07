@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Water_Network_Structures" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Water Network Structures</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.875</scale>
+			<Icon>
+				<href>Layer0_Symbol_84525210_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle08">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_84525098_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle03">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_84525388_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle07">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_84525ae0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Water Network Structures</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Water Network Structures such as treatment plants and pump stations.</description>
+		<Placemark id="ID_00000">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71033468190055,31.43509475682285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73241017731652,31.43334082836052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.77940796515814,31.43627746935246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>-97.79089072146154,31.43451669885222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>-97.67808599437484,31.35274017176728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>-97.6779950937333,31.35264199227343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle03</styleUrl>
+			<Point>
+				<coordinates>-97.76309605879527,31.43259354961078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle07</styleUrl>
+			<Point>
+				<coordinates>-97.50739155352183,31.16181045839467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle08</styleUrl>
+			<Point>
+				<coordinates>-97.55066916681741,31.24002370058784,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
