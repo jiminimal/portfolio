@@ -1,0 +1,530 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.fgdc.gov/metadata/fgdc-std-001-1998.xsd">
+<idinfo>
+<citation>
+<citeinfo>
+<origin>
+U.S. Geological Survey or another mapping agency in cooperation with USGS.
+</origin>
+<pubdate>20090217</pubdate>
+<title>Albuquerque 1:100000 Quad Hydrography DLGs</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Reston, Virginia</pubplace>
+<publish>U.S. Geological Survey</publish>
+</pubinfo>
+<onlink>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/halbuqshp.original.zip
+</onlink>
+<onlink>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/metadata/FGDC-STD-001-1998.xml
+</onlink>
+<onlink>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/metadata/FGDC-STD-001-1998.html
+</onlink>
+<onlink>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/metadata/ISO-19115:2003.xml
+</onlink>
+<onlink>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/metadata/ISO-19115:2003.html
+</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+Digital line graph (DLG) data are digital representations of cartographic information. DLG's of map features are converted to digital form from maps and related sources. Intermediate-scale DLG data are derived from USGS 1:100,000-scale 30- by 60-minute quadrangle maps. If these maps are not available, Bureau of Land Management planimetric maps at a scale of 1: 100,000 are used. Intermediate-scale DLG's are sold in five categories: (1) Public Land Survey System; (2) boundaries (3) transportation; (4) hydrography; and (5) hypsography. All DLG data distributed by the USGS are DLG - Level 3 (DLG-3), which means the data contain a full range of attribute codes, have full topological structuring, and have passed certain quality-control checks.
+</abstract>
+<purpose>
+DLG's depict information about geographic features on or near the surface of the Earth, terrain, and political and administrative units. These data were collected as part of the National Mapping Program.
+</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>19870619</begdate>
+<enddate>Present</enddate>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>In work</progress>
+<update>Irregular</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-107.000023</westbc>
+<eastbc>-106.000031</eastbc>
+<northbc>35.500031</northbc>
+<southbc>34.999962</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>inlandWaters</themekey>
+</theme>
+<theme>
+<themekt>None.</themekt>
+<themekey>digital line graph</themekey>
+<themekey>DLG</themekey>
+<themekey>hydrography</themekey>
+<themekey>transportation</themekey>
+<themekey>boundaries</themekey>
+<themekey>U.S. Public Land Survey System</themekey>
+<themekey>hypsography</themekey>
+</theme>
+<place>
+<placekt>Spatial Reference System Identifiers</placekt>
+<placekey>EPSG:4267</placekey>
+<placekey>EPSG:7008</placekey>
+<placekey>EPSG:5102</placekey>
+</place>
+<place>
+<placekt>
+U.S. Department of Commerce, 1977, Countries, dependencies, areas of special sovereignty, and their principal administrative divisions (Federal Information Processing Standard 10-3):Washington, D.C., National Institute of Standards and Technology.
+</placekt>
+<placekey>US</placekey>
+<placekey>NM</placekey>
+<placekey>Albuquerque</placekey>
+</place>
+<place>
+<placekt>
+U.S. Department of Commerce, 1987, Codes for the identification of the States, the District of Columbia and the outlying areas of The United States, and associated areas (Federal Information Processing Standard 5-2):Washington ,D. C., National Institute of Standards and Technology.
+</placekt>
+<placekey>FIPS codes for states covered</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>USGS</cntorg>
+</cntorgp>
+<cntpos>Clearinghouse Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>508 National Center</address>
+<city>Reston</city>
+<state>VA</state>
+<postal>20192</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>703-648-4543</cntvoice>
+</cntinfo>
+</ptcontac>
+<native>
+Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.2.4.1420
+</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Refer to Positional_Accuracy element.</attraccr>
+</attracc>
+<logic>
+Topological requirements include: lines must begin and end at nodes, lines must connect to each other at nodes, lines do not extend through nodes, left and right areas are defined for each line element and are consistent throughout the file, and the lines representing the limits of the file (neatline) are free of gaps. The tests of logical consistency were performed by the USGS PROSYS program. The neatline was generated by connecting the four corners of the digital file, as established during initialization of the digital file. All data outside the enclosed region were ignored and all data crossing these geographically straight lines were clipped at the neatline. Data within a specified tolerance of the neatline were snapped to the neatline. Neatline straightening aligned the digitized edges of the digital data with the generated neatline, that is, with the longitude/latitude lines in geographic coordinates. All internal areas were tested for closure using PROSYS.
+</logic>
+<complete>
+For Digital Revision Status = Not revised Data completeness reflects the content of the source quadrangle. Features may have been eliminated or generalized on the source graphic, due to scale and legibility constraints. For Digital Revision Status = Limited Update This file has undergone limited update digital revision. The file contains only (1) those features that are photoidentifiable on monoscopic source, supplemented with limited ancillary source, and (2) those features, present on the original source quadrangle, that can not be reliably photoidentified but that are not considered particularly prone to change. For Digital Revision Status = Standard Update This file has undergone standard update digital revision. The data completeness of this file meets NMD standards for feature content.
+</complete>
+<posacc>
+<horizpa>
+<horizpar>For Digital Revision Status = Not revised:</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>
+For Hypsography and Hydrography Only: For Digital Revision Status = Not revised:
+</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>
+U.S. Geological Survey or another mapping agency in cooperation with USGS.
+</origin>
+<pubdate>Unknown</pubdate>
+<title>
+The Topographic Map Names Data Base designation for the source quadrangle.
+</title>
+<geoform>map</geoform>
+<pubinfo>
+<pubplace>Reston, Virginia</pubplace>
+<publish>U.S. Geological Survey</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>100000</srcscale>
+<typesrc>stable-base material</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>19870619</begdate>
+<enddate>Present</enddate>
+</rngdates>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>MAP1</srccitea>
+<srccontr>spatial and attribute information</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>
+For Digital Revision Status = Not digitally revised: This Digital Line Graph was digitized from the USGS source quadrangle, by either the National Mapping Division, one of their cooperators, or one of their contractors. The digital data were produced by one of the following methods: - scanning a stable-based copy of the graphic materials. The scanning process captured the digital data at a scanning resolution of at least 0.001 inches; the resulting raster data were vectorized and then attributed on an interactive editing station. - scanning the paper map. The scanning process captured the digital data at a scanning resolution of at least 0.001 inches; the resulting raster data were vectorized and then attributed on an interactive editing station. - scanning a stable-based copy of the graphic materials. The resulting raster data were then manually digitized and attributed on an interactive editing station. The resolution of the digital data is at least 0.001 inches. - scanning the paper map. The resulting raster data were then manually digitized and attributed on an interactive editing station. The resolution of the digital data is at least 0.001 inches. - manually digitizing from a stable-based copy of the graphic material using a digitizing table to capture the digital data at a resolution of at least 0.001 inches; attribution was performed either as the data were digitized, or on an interactive edit station after the digitizing was completed. - manually digitizing from the paper map using a digitizing table to capture the digital data at a resolution of at least 0.001 inches; attribution was performed either as the data were digitized, or on an interactive edit station after the digitizing was completed. The determination of the DLG production method was based on various criteria, including feature density, feature symbology, and availability of production systems. Four control points corresponding to the four corners of the quadrangle were used for registration during data collection. An eight parameter projective transformation was performed on the coordinates used in the data collection and editing systems to register the digital data to the internal coordinates used in PROSYS, and a four parameter linear transformation was performed from the PROSYS internal coordinates to Universal Transverse Mercator (UTM) grid coordinates. The DLG data were checked for position by one or more of the following processes: - comparing plots of the digital data to the graphic source. - comparing the digital data to the digital raster scan. DLG data classification was checked by at least one of the following processes. - comparing plots of the digital data to the graphic source - comparing the digital data to the digital raster scan.
+</procdesc>
+<srcused>MAP1</srcused>
+<procdate>Unknown</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<indspref>Torrance County (35057)</indspref>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>String</sdtstype>
+<ptvctcnt>1</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.00000001</latres>
+<longres>0.00000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1927</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>halbuq_Clip</enttypl>
+<enttypd>DLG 1:100,000</enttypd>
+<enttypds>USGS</enttypds>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>
+Sequential unique whole numbers that are automatically generated.
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>FNODE_</attrlabl>
+<attrdef>Internal number of from-node.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TNODE_</attrlabl>
+<attrdef>Internal number of to-node.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LPOLY_</attrlabl>
+<attrdef>Internal number of poly to left of arc.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RPOLY_</attrlabl>
+<attrdef>Internal number of poly to right of arc.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LENGTH</attrlabl>
+<attrdef>Length of arc in coverage units.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAJOR1</attrlabl>
+<attrdef>
+Flowing and standing water and manmade features directly related to hydrography are collected in this category.
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MINOR1</attrlabl>
+<attrdef>
+The first digit of the minor code of a nonparameter code is zero. The remaining three digits of a nonparameter code are used to classify specific features. The type of element described by a particular code can generally be determined from the value of these digits: o node: 001-099 o area: 100-199 o line: 200-299 o single-point (degenerate line): 300-399 o general purpose codes: 400-499 (i.e. 0412 Stream) o descriptive codes: 600-699 (i.e. 0610 Intermittent)
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAJOR2</attrlabl>
+<attrdef>
+Flowing and standing water and manmade features directly related to hydrography are collected in this category.
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MINOR2</attrlabl>
+<attrdef>
+The first digit of the minor code of a nonparameter code is zero. The remaining three digits of a nonparameter code are used to classify specific features. The type of element described by a particular code can generally be determined from the value of these digits: o node: 001-099 o area: 100-199 o line: 200-299 o single-point (degenerate line): 300-399 o general purpose codes: 400-499 (i.e. 0412 Stream) o descriptive codes: 600-699 (i.e. 0610 Intermittent)
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAJOR3</attrlabl>
+<attrdef>
+Flowing and standing water and manmade features directly related to hydrography are collected in this category.
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MINOR3</attrlabl>
+<attrdef>
+The first digit of the minor code of a nonparameter code is zero. The remaining three digits of a nonparameter code are used to classify specific features. The type of element described by a particular code can generally be determined from the value of these digits: o node: 001-099 o area: 100-199 o line: 200-299 o single-point (degenerate line): 300-399 o general purpose codes: 400-499 (i.e. 0412 Stream) o descriptive codes: 600-699 (i.e. 0610 Intermittent)
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAJOR4</attrlabl>
+<attrdef>
+Flowing and standing water and manmade features directly related to hydrography are collected in this category.
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MINOR4</attrlabl>
+<attrdef>
+The first digit of the minor code of a nonparameter code is zero. The remaining three digits of a nonparameter code are used to classify specific features. The type of element described by a particular code can generally be determined from the value of these digits: o node: 001-099 o area: 100-199 o line: 200-299 o single-point (degenerate line): 300-399 o general purpose codes: 400-499 (i.e. 0412 Stream) o descriptive codes: 600-699 (i.e. 0610 Intermittent)
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAJOR5</attrlabl>
+<attrdef>
+Flowing and standing water and manmade features directly related to hydrography are collected in this category.
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>MINOR5</attrlabl>
+<attrdef>
+The first digit of the minor code of a nonparameter code is zero. The remaining three digits of a nonparameter code are used to classify specific features. The type of element described by a particular code can generally be determined from the value of these digits: o node: 001-099 o area: 100-199 o line: 200-299 o single-point (degenerate line): 300-399 o general purpose codes: 400-499 (i.e. 0412 Stream) o descriptive codes: 600-699 (i.e. 0610 Intermittent)
+</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Hydrographic feature name.</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>HID02_</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>User-defined</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>HID02_ID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>User-defined</attrdefs>
+<attrdomv>
+<udom>Internal number</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>HYDRO</attrlabl>
+<attrdef>Hydrographic (h)</attrdef>
+<attrdefs>http://nationalmap.gov/standards/pdf/3dlg0798.pdf</attrdefs>
+<attrdomv>
+<udom>
+See http://nationalmap.gov/standards/pdf/3dlg0798.pdf
+</udom>
+</attrdomv>
+</attr>
+</detailed>
+<overview>
+<eaover>
+DLG3 attribute codes are used to describe the physical and cultural characteristics of DLG node, line, and area elements. Attribute codes are used to reduce redundant information, provide enough reference information to support integration with larger data base, and describe the relationships between cartographic elements. Each DLG element has one or more attribute codes composed of a three digit major code and a four-digit minor code. For example, with the 1: 24,000-scale DLG data, the line attribute code 050 0412 has a major code (050), meaning hydrography, with a minor code (0412) meaning stream.
+</eaover>
+<eadetcit>
+U.S.Department of the Interior, U.S. Geological Survey, 1987 Digital Line Graphs from 1:100,000-Scale Maps--Data Users Guide 2; Reston, Virginia A hypertext extract is available at: URL: http://edc.usgs.gov/glis/hyper/guide/usgs_dlg Softcopies in ASCII, WordPerfect, and PostScript format are available at: URL: ftp://mapping.usgs.gov/pub/ti/DLG/ U.S.Department of the Interior, U.S.Geological Survey, 1990, Standards for Digital Line Graphs; Reston, Virginia Softcopies in ASCII, WordPerfect, and PostScript format are available at: URL: ftp://mapping.usgs.gov/pub/ti/DLG/
+</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Earth Data Analysis Center</cntorg>
+</cntorgp>
+<cntpos>Clearinghouse Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>MSC01 1110</address>
+<address>1 University of New Mexico</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87131-0001</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>505-277-3622 ext. 230</cntvoice>
+<cntfax>505-277-3614</cntfax>
+<cntemail>clearinghouse@edac.unm.edu</cntemail>
+<hours>0800 - 1700 MT, M-F -7 hours GMT</hours>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>
+The material on this site is made available as a public service. Maps and data are to be used for reference purposes only and the Earth Data Analysis Center (EDAC), Resource Geographic Information System (RGIS) and The University of New Mexico are not responsible for any inaccuracies herein contained. No responsibility is assumed for damages or other liabilities due to the accuracy, availability, use or misuse of the information herein provided. Unless otherwise indicated in the documentation (metadata) for individual data sets, information on this site is public domain and may be copied without permission; citation of the source is appreciated.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ZIP</formname>
+<transize>2</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>
+http://gstore.unm.edu/apps/rgis/datasets/b257a7e4-4c0d-4937-9edf-e3ffb0d5e943/halbuqshp.original.zip
+</networkr>
+</networka>
+</computer>
+<accinstr>
+Download from Resource Geographic Information System (RGIS) at http://rgis.unm.edu.
+</accinstr>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>
+None. The files are available to download from Resource Geographic Information System (RGIS) (http://rgis.unm.edu).
+</fees>
+<ordering>
+Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu
+</ordering>
+</stdorder>
+<custom>
+Contact Earth Data Analysis Center at clearinghouse@edac.unm.edu
+</custom>
+<techpreq>
+Adequate computer capability is the only technical prerequisite for viewing data in digital form.
+</techpreq>
+</distinfo>
+<metainfo>
+<metd>20180306</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Earth Data Analysis Center</cntorg>
+</cntorgp>
+<cntpos>Clearinghouse Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>MSC01 1110</address>
+<address>1 University of New Mexico</address>
+<city>Albuquerque</city>
+<state>NM</state>
+<postal>87131-0001</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>505-277-3622 ext. 230</cntvoice>
+<cntfax>505-277-3614</cntfax>
+<cntemail>clearinghouse@edac.unm.edu</cntemail>
+<hours>0800 - 1700 MT, M-F -7 hours GMT</hours>
+</cntinfo>
+</metc>
+<metstdn>
+FGDC Content Standards for Digital Geospatial Metadata
+</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

@@ -1,0 +1,264 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<WFS_Capabilities xmlns="http://www.opengis.net/wfs/2.0" xmlns:fes="http://www.opengis.net/fes/2.0" xmlns:ogc="http://www.opengis.net/ogc" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:WFS_transportation="http://igskbthivmnms11:6080/arcgis/services/WFS/transportation/MapServer/WFSServer" version="2.0.0" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.2.1/gml.xsd http://www.opengis.net/ogc http://schemas.opengis.net/filter/2.0/filter.xsd http://www.opengis.net/ows/1.1 http://schemas.opengis.net/ows/1.1.0/owsAll.xsd http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd http://www.opengis.net/fes/2.0 http://schemas.opengis.net/filter/2.0/filterAll.xsd">
+<ows:ServiceIdentification>
+<ows:Title>WFS_transportation</ows:Title>
+<ows:Abstract/>
+<ows:Keywords>
+<ows:Keyword/>
+</ows:Keywords>
+<ows:ServiceType>WFS</ows:ServiceType>
+<ows:ServiceTypeVersion>2.0.0</ows:ServiceTypeVersion>
+<ows:Fees/>
+<ows:AccessConstraints/>
+</ows:ServiceIdentification>
+<ows:ServiceProvider>
+<ows:ProviderName/>
+<ows:ServiceContact>
+<ows:IndividualName/>
+<ows:PositionName/>
+<ows:ContactInfo>
+<ows:Phone/>
+<ows:Address/>
+<ows:OnlineResource xlink:href="http://igskbthivmnms11:6080/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+<ows:HoursOfService/>
+<ows:ContactInstructions/>
+</ows:ContactInfo>
+</ows:ServiceContact>
+</ows:ServiceProvider>
+<ows:OperationsMetadata>
+<ows:Operation name="GetCapabilities">
+<ows:DCP>
+<ows:HTTP>
+<ows:Get xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?"/>
+<ows:Post xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+</ows:HTTP>
+</ows:DCP>
+<ows:Parameter name="AcceptVersions">
+<ows:AllowedValues>
+<ows:Value>2.0.0</ows:Value>
+<ows:Value>1.1.0</ows:Value>
+<ows:Value>1.0.0</ows:Value>
+</ows:AllowedValues>
+</ows:Parameter>
+<ows:Parameter name="AcceptFormats">
+<ows:AllowedValues>
+<ows:Value>text/xml</ows:Value>
+</ows:AllowedValues>
+</ows:Parameter>
+</ows:Operation>
+<ows:Operation name="DescribeFeatureType">
+<ows:DCP>
+<ows:HTTP>
+<ows:Get xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?"/>
+<ows:Post xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+</ows:HTTP>
+</ows:DCP>
+<ows:Parameter name="outputFormat">
+<ows:AllowedValues>
+<ows:Value>application/gml+xml; version=3.2</ows:Value>
+</ows:AllowedValues>
+</ows:Parameter>
+</ows:Operation>
+<ows:Operation name="GetFeature">
+<ows:DCP>
+<ows:HTTP>
+<ows:Get xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?"/>
+<ows:Post xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+</ows:HTTP>
+</ows:DCP>
+<ows:Parameter name="outputFormat">
+<ows:AllowedValues>
+<ows:Value>application/gml+xml; version=3.2</ows:Value>
+</ows:AllowedValues>
+</ows:Parameter>
+</ows:Operation>
+<ows:Operation name="ListStoredQueries">
+<ows:DCP>
+<ows:HTTP>
+<ows:Get xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?"/>
+<ows:Post xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+</ows:HTTP>
+</ows:DCP>
+</ows:Operation>
+<ows:Operation name="DescribeStoredQueries">
+<ows:DCP>
+<ows:HTTP>
+<ows:Get xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?"/>
+<ows:Post xlink:href="https://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer"/>
+</ows:HTTP>
+</ows:DCP>
+</ows:Operation>
+<ows:Constraint name="ImplementsSimpleWFS">
+<ows:NoValues/>
+<ows:DefaultValue>TRUE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsBasicWFS">
+<ows:NoValues/>
+<ows:DefaultValue>TRUE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsTransactionalWFS">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsLockingWFS">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsInheritance">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsRemoteResolve">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsResultPaging">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsStandardJoins">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsSpatialJoins">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsTemporalJoins">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ImplementsFeatureVersioning">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="ManageStoredQueries">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="KVPEncoding">
+<ows:NoValues/>
+<ows:DefaultValue>TRUE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="XMLEncoding">
+<ows:NoValues/>
+<ows:DefaultValue>TRUE</ows:DefaultValue>
+</ows:Constraint>
+<ows:Constraint name="SOAPEncoding">
+<ows:NoValues/>
+<ows:DefaultValue>FALSE</ows:DefaultValue>
+</ows:Constraint>
+<ows:ExtendedCapabilities>
+<ows:Constraint name="serviceAxisOrderForSwappableSRS">
+<ows:Value>latitude,longitude</ows:Value>
+</ows:Constraint>
+</ows:ExtendedCapabilities>
+</ows:OperationsMetadata>
+<FeatureTypeList>
+<FeatureType>
+<Name>WFS_transportation:Interstate</Name>
+<Title>Interstate</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-158.09330899996718 21.277798000109367</ows:LowerCorner>
+<ows:UpperCorner>-67.781262000310235 64.860203589187151</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:State_Route</Name>
+<Title>State_Route</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-159.78000600030367 17.677759999951903</ows:LowerCorner>
+<ows:UpperCorner>-64.566966999945208 70.206525464055204</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:US_Route</Name>
+<Title>US_Route</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-124.49787099940119 24.550414999899761</ows:LowerCorner>
+<ows:UpperCorner>-67.074087000325818 49.00066699994656</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:Airport_Runway</Name>
+<Title>Airport_Runway</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-177.39276793739359 -14.340709218400283</ows:LowerCorner>
+<ows:UpperCorner>174.13509524669249 71.285737541858481</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:US_Railroad</Name>
+<Title>US_Railroad</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-156.68975729139754 20.880141102365155</ows:LowerCorner>
+<ows:UpperCorner>-67.290018764194897 54.315559177955222</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:Airport</Name>
+<Title>Airport</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-177.38309144056163 -14.330428762661402</ows:LowerCorner>
+<ows:UpperCorner>174.11440919806259 71.287877073031851</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:Local_Road</Name>
+<Title>Local_Road</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-176.69575121240612 17.676204999939799</ows:LowerCorner>
+<ows:UpperCorner>-64.566966999945208 71.356692912011383</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+<FeatureType>
+<Name>WFS_transportation:County_Route</Name>
+<Title>County_Route</Title>
+<DefaultCRS>urn:ogc:def:crs:EPSG:6.9:3857</DefaultCRS>
+<OtherSRS>urn:ogc:def:crs:EPSG:6.9:4326</OtherSRS>
+<OutputFormats>
+<Format>application/gml+xml; version=3.2</Format>
+</OutputFormats>
+<ows:WGS84BoundingBox>
+<ows:LowerCorner>-108.5154499999736 31.788759999715534</ows:LowerCorner>
+<ows:UpperCorner>-74.681910000277725 41.543370999992135</ows:UpperCorner>
+</ows:WGS84BoundingBox>
+</FeatureType>
+</FeatureTypeList>
+<fes:Filter_Capabilities/>
+</WFS_Capabilities>
