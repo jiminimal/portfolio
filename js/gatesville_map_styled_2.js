@@ -26,7 +26,7 @@ function initialize() {
 	  // trying to add a marker
   var towncenterMarker = new google.maps.Marker({
     position: towncenter,
-    title:"The Center of Prison-town Texas"
+    title:"The Center of Prison-town, Texas. Gatesville is the home of 5 of the 8 women's prisons in the state of Texas."
     });
   towncenterMarker.setMap(map);
 
