@@ -49,7 +49,7 @@
 		</Placemark>
 		<Placemark id="ID_00003">
 			<name>WSRV-4</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			      <Point>
 				<coordinates>-97.72425596811189,31.43954067708246,0</coordinates>
@@ -57,7 +57,7 @@
 		</Placemark>
 		<Placemark id="ID_00004">
 			<name>WSRV-5</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			  			<Point>
 				<coordinates>-97.72409938812321,31.43953667576866,0</coordinates>
@@ -65,7 +65,7 @@
 		</Placemark>
 		<Placemark id="ID_00005">
 			<name>WSRV-6</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 					<Point>
 				<coordinates>-97.72426300929941,31.43943512694189,0</coordinates>
@@ -73,7 +73,7 @@
 		</Placemark>
 		<Placemark id="ID_00006">
 			<name>WSRV-7</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			      </ExtendedData>
 			<Point>
@@ -82,7 +82,7 @@
 		</Placemark>
 		<Placemark id="ID_00007">
 			<name>WSRV-8</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			    			<Point>
 				<coordinates>-97.72281762831395,31.43943026758297,0</coordinates>
@@ -90,7 +90,7 @@
 		</Placemark>
 		<Placemark id="ID_00008">
 			<name>WSRV-9</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			 			<Point>
 				<coordinates>-97.72232980892862,31.4394231075589,0</coordinates>
@@ -98,7 +98,7 @@
 		</Placemark>
 		<Placemark id="ID_00009">
 			<name>WSRV-10</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			<Point>
 				<coordinates>-97.72186410864359,31.43951636611775,0</coordinates>
@@ -106,7 +106,7 @@
 		</Placemark>
 		<Placemark id="ID_00010">
 			<name>WSRV-11</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			     <Point>
 				<coordinates>-97.72135682952727,31.43951350627957,0</coordinates>

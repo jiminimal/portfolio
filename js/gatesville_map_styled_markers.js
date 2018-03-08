@@ -66,8 +66,8 @@ var contentString = '<div id="content">'+
      // sources for kmls
   var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains2.kml';
   var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
-  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters3.kml';
-  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings.kml';
+  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters4.kml';
+  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings4.kml';
   var network_structures ='https://jiminimal.github.io/portfolio/kml/network_structures.kml';
   var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site4.kml';
 
@@ -104,30 +104,16 @@ document.getElementById('show_hide_water_mains').checked = true;
           testimonial.innerHTML = content;
         });
 
-  var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
-          suppressInfoWindows: false,
+var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
+        suppressInfoWindows: false,
           preserveViewport: true,
           map: map
-        });
+       });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-          var testimonial = element.id('capture');
+         var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
-
-// preserved meter layer
-//var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
- //         suppressInfoWindows: false,
- //         preserveViewport: true,
- //         map: map
-//        });
- //       kmlLayer.addListener('click', function(event) {
-//          var content = event.featureData.infoWindowHtml;
-//          var testimonial = document.getElementById('capture');
- //         testimonial.innerHTML = content;
- //       });
-
-
 
 var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
           suppressInfoWindows: false,
@@ -139,8 +125,6 @@ var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
-
-
 
 var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
           suppressInfoWindows: false,
