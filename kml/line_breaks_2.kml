@@ -24,9 +24,10 @@
 		<Snippet maxLines="0"></Snippet>
 		<Placemark id="ID_00000">
 			<Snippet maxLines="0"></Snippet>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-</html>]]></description>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"></html>]]>
+	
+</description>
+			
 			<styleUrl>#IconStyle00</styleUrl>
 			<Point>
 				<coordinates>-97.73351767573224,31.43693791147316,0</coordinates>

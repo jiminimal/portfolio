@@ -30,8 +30,36 @@ function initialize() {
     });
   towncenterMarker.setMap(map);
 
-     // end of marker	
 
+// infobox
+
+var contentString = '<div id="content">'+
+            '<div id="siteNotice">'+
+                   '<h1> Gatesville, Texas</h1>'+
+            '</div>'+
+            
+            '<div id="bodyContent">'+
+            '<aaa>Here is where info about Gatesville would go'+
+            '</aaa>'+
+            '</p>'+
+            '</div>'+
+            '</div>';
+
+        var infowindow = new google.maps.InfoWindow({
+          content: contentString, maxWidth:300
+        });
+
+
+
+
+
+// end infobox
+
+
+     // end of marker	
+ towncenterMarker.addListener('click', function() {
+          infowindow.open(map, towncenterMarker);
+        });
 
 
 
@@ -40,7 +68,7 @@ function initialize() {
   var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
   var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
   //var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
-  ar water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings_2.kml';
+  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings_2.kml';
   //var network_structures ='https://jiminimal.github.io/portfolio/kml/network_structures.kml';
   //var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site.kml';
 
