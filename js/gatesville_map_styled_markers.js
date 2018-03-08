@@ -84,13 +84,13 @@ var contentString = '<div id="content">'+
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
 
 // initially show water mains layer 
-document.getElementById('show_hide_water_mains').checked = true; 
+//document.getElementById('show_hide_water_mains').checked = true; 
 //end of initial show water mains layer
 
   var kmlLayer = new google.maps.KmlLayer(line_breaks, {
@@ -99,7 +99,7 @@ document.getElementById('show_hide_water_mains').checked = true;
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
@@ -110,7 +110,7 @@ var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
           map: map
        });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
          var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
@@ -121,7 +121,7 @@ var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
@@ -132,7 +132,7 @@ var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
@@ -143,7 +143,7 @@ var kmlLayer = new google.maps.KmlLayer(wwtp_site, {
           map: map
         });
         kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
+          var content = event.featureData.infoBoxHtml;
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
