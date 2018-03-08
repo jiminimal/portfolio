@@ -3,7 +3,7 @@ function initialize() {
 	var mapOptions = {
 		zoom: 15,
 		center: towncenter,
-		mapTypeId: google.maps.MapTypeId.HYBRID
+		mapTypeId: google.maps.MapTypeId.ROAD 
 	};
 	var map = new google.maps.Map(
 		document.getElementById("map_canvas"),
