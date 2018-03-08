@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="WWTP_Site.kmz" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-	<name>WWTP Site.kmz</name>
-	<Snippet maxLines="0"></Snippet>
+	<name>WWTP Site 4</name>
+	<Snippet maxLines="5"></Snippet>
 	<Style id="PolyStyle00">
 		<LabelStyle>
 			<color>00000000</color>
-			<scale>0</scale>
+			<scale>2</scale>
 		</LabelStyle>
 		<LineStyle>
 			<color>ff6e6e6e</color>
@@ -21,7 +21,7 @@
 		<Snippet maxLines="5"></Snippet>
 		<Placemark id="ID_00000">
 			<name>Wastewater Site 1</name>
-			<Snippet maxLines="0"></Snippet>
+			<Snippet maxLines="5"></Snippet>
 			<description> THIS IS THE DESCRIOTION FOR WASTEWATER SITE 1</description>
 			<styleUrl>#PolyStyle00</styleUrl>
 			<ExtendedData>

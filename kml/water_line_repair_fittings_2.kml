@@ -20,7 +20,7 @@
 	</Style>
 	<Folder id="FeatureLayer0">
 		<name>Water Fittings</name>
-		<Snippet maxLines="0"></Snippet>
+		<Snippet maxLines="5"></Snippet>
 		<description>Fittings are shown at scales larger than 1:4,800, though are not labeled in this general depiction of the water network—users would be expected to click on the fittings to get more information.</description>
 		<Placemark id="ID_00000">
 			<name>NULL</name>
@@ -1467,7 +1467,6 @@
         <value>4</value>
       </Data>
     </ExtendedData>
-
 			<Snippet maxLines="0"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			<Point>
@@ -1476,7 +1475,6 @@
 		</Placemark>
 		<Placemark id="ID_00071">
 			<name>NULL</name>
-
 				    <ExtendedData>
       <Data name="holeNumber">
         <value>1</value>
@@ -1488,7 +1486,6 @@
         <value>4</value>
       </Data>
     </ExtendedData>
-
 			<Snippet maxLines="0"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			<Point>
@@ -1497,7 +1494,6 @@
 		</Placemark>
 		<Placemark id="ID_00072">
 			<name>NULL</name>
-
 				    <ExtendedData>
       <Data name="holeNumber">
         <value>1</value>
@@ -1509,7 +1505,6 @@
         <value>4</value>
       </Data>
     </ExtendedData>
-
 			<Snippet maxLines="0"></Snippet>
 			<styleUrl>#IconStyle00</styleUrl>
 			<Point>
@@ -1518,7 +1513,6 @@
 		</Placemark>
 		<Placemark id="ID_00073">
 			<name>NULL</name>
-					
 				    <ExtendedData>
       <Data name="holeNumber">
         <value>1</value>
