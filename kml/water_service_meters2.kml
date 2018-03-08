@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Water_Service_Connections" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Water Service Connections</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_81257dc8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.666667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Water Service Connections</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Are not shown at scales smaller than 1:2,400.  In some cases even at 1:100 scale, meter symbols will overlap one another. This is partly due to automated methods for creating meter features at the ends of laterals, particularly based on automated methods for creating laterals off of mains. Ideally meter features are located as precisely as possible relative to their real-world locations—in practice this is expensive without using GPS, which doesn’t deal with the lateral locations.  In this map, meters, are not the focus and therefore are not labeled—in a meter management map labels would be necessary.</description>
+		<Placemark id="ID_00000">
+			<name>WSRV-1</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+				<coordinates>-97.72468846887108,31.43863359730794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>WSRV-2</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+				<coordinates>-97.72502776875884,31.4395561259219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>WSRV-3</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+				<coordinates>-97.72473607891038,31.43944399606413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>WSRV-4</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+				<coordinates>-97.72425596811189,31.43954067708246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>WSRV-5</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+			<Point>
+				<coordinates>-97.72409938812321,31.43953667576866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>WSRV-6</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+			<Point>
+				<coordinates>-97.72426300929941,31.43943512694189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>WSRV-7</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+			<Point>
+				<coordinates>-97.72331718905318,31.43942539688639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>WSRV-8</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+			<Point>
+				<coordinates>-97.72281762831395,31.43943026758297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>WSRV-9</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+			<Point>
+				<coordinates>-97.72232980892862,31.4394231075589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>WSRV-10</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72186410864359,31.43951636611775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>WSRV-11</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			  <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+				<coordinates>-97.72135682952727,31.43951350627957,0</coordinates>
+			</Point>
+		</Placemark>
+			</Folder>
+</Document>
+</kml>
