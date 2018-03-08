@@ -64,7 +64,7 @@ var contentString = '<div id="content">'+
 
 
      // sources for kmls
-  var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains3.kml';
+  var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains2.kml';
   var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
   //var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
   var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings_2.kml';
