@@ -30,7 +30,7 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>00000080</color>
+			<color>000080</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -54,7 +54,7 @@
 		<Placemark id="ID_00000">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01/styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -67,7 +67,7 @@
 		<Placemark id="ID_00001">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -80,7 +80,7 @@
 		<Placemark id="ID_00002">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -93,7 +93,7 @@
 		<Placemark id="ID_00003">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -106,7 +106,7 @@
 		<Placemark id="ID_00004">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -119,7 +119,7 @@
 		<Placemark id="ID_00005">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -132,7 +132,7 @@
 		<Placemark id="ID_00006">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -145,7 +145,7 @@
 		<Placemark id="ID_00007">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -158,7 +158,7 @@
 		<Placemark id="ID_00008">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -171,7 +171,7 @@
 		<Placemark id="ID_00009">
 			<name>24&apos;&apos; PVC</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle01</styleUrl>
+			<styleUrl>#LineStyle00</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -184,7 +184,7 @@
 		<Placemark id="ID_00010">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -197,7 +197,7 @@
 		<Placemark id="ID_00011">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -210,7 +210,7 @@
 		<Placemark id="ID_00012">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -223,7 +223,7 @@
 		<Placemark id="ID_00013">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -236,7 +236,7 @@
 		<Placemark id="ID_00014">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -249,7 +249,7 @@
 		<Placemark id="ID_00015">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -262,7 +262,7 @@
 		<Placemark id="ID_00016">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -275,7 +275,7 @@
 		<Placemark id="ID_00017">
 			<name>6&apos;&apos; PVC</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle01</styleUrl>
+			<styleUrl>#LineStyle00</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -288,7 +288,7 @@
 		<Placemark id="ID_00018">
 			<name>6&apos;&apos; PVC</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle01</styleUrl>
+			<styleUrl>#LineStyle00</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -301,7 +301,7 @@
 		<Placemark id="ID_00019">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -431,7 +431,7 @@
 		<Placemark id="ID_00029">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -509,7 +509,7 @@
 		<Placemark id="ID_00035">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -769,7 +769,7 @@
 		<Placemark id="ID_00055">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -912,7 +912,7 @@
 		<Placemark id="ID_00066">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -925,7 +925,7 @@
 		<Placemark id="ID_00067">
 			<name>24&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -938,7 +938,7 @@
 		<Placemark id="ID_00068">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -951,7 +951,7 @@
 		<Placemark id="ID_00069">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1094,7 +1094,7 @@
 		<Placemark id="ID_00080">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1263,7 +1263,7 @@
 		<Placemark id="ID_00093">
 			<name>16&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1380,7 +1380,7 @@
 		<Placemark id="ID_00102">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1484,7 +1484,7 @@
 		<Placemark id="ID_00110">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1510,7 +1510,7 @@
 		<Placemark id="ID_00112">
 			<name>16&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1523,7 +1523,7 @@
 		<Placemark id="ID_00113">
 			<name>16&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1536,7 +1536,7 @@
 		<Placemark id="ID_00114">
 			<name>6&apos;&apos; CAST IRON</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1614,7 +1614,7 @@
 		<Placemark id="ID_00120">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1627,7 +1627,7 @@
 		<Placemark id="ID_00121">
 			<name>6&apos;&apos; CAST IRON</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1640,7 +1640,7 @@
 		<Placemark id="ID_00122">
 			<name>6&apos;&apos; CAST IRON</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -1861,7 +1861,7 @@
 		<Placemark id="ID_00139">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -2017,7 +2017,7 @@
 		<Placemark id="ID_00151">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3213,7 +3213,7 @@
 		<Placemark id="ID_00243">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -3616,7 +3616,7 @@
 		<Placemark id="ID_00274">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -4071,7 +4071,7 @@
 		<Placemark id="ID_00309">
 			<name>18&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -6372,7 +6372,7 @@
 		<Placemark id="ID_00486">
 			<name>20&apos;&apos; STEEL CYLINDER</name>
 			<Snippet maxLines="0"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
