@@ -16,11 +16,6 @@
    <p>This map shows some of the large utility features in the city of Gatesville, including water tanks, water mains, and treatment facilites. I'm also experimenting with dislaying smaller features such as customer meters, water mains repairs, and reported leaks. </p>
    <p>The map is centered on the geographic middle of Gatesville because the majority of the utility assets lie within the area displayed with that geographic center at a zoom level of 15.</p>
 
-
-
-
-
-
 </div>
 
 
@@ -51,6 +46,9 @@
  
  <script src="js/gatesville_map_styled_markers3.js"></script> 
 
+<script async defer 
+      src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
+      </script>
 
       <!-- load toggle script 
 
@@ -63,9 +61,7 @@
     <!-- Load the API in asynchronous mode and execute the initialize function when done -->
     
     
-    <script async defer 
-      src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyDh6qV_0BK2qx4if6YejgB1xOW3RZ32JHM">
-      </script>
+    
 
 <!-- trial check box. <input type="checkbox" id="show_hide_water_mains" 
 onClick="togglewater_mains();" />This checkbox will eventually toggle the water mains on and off, but it doesn't work.... yet .... 
