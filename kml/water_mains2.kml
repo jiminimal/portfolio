@@ -30,8 +30,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>00008080</color>
-			<width>3</width>
+			<color>00000080</color>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
