@@ -2,13 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="Water_Mains" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
 	<name>Water Mains</name>
-	
-
-
-	<Snippet maxLines="0"></Snippet>
-	
-
-	<Style id="LineStyle00">
+		<Snippet maxLines="0"></Snippet>
+		<Style id="LineStyle00">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
@@ -22,15 +17,13 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-
-
 <Style id="LineStyle01">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>000080</color>
+			<color>bb000080</color>
 			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
@@ -38,15 +31,6 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-
-
-
-
-
-
-
-
-
 	<Folder id="FeatureLayer0">
 		<name>Water Mains</name>
 		<Snippet maxLines="0"></Snippet>
