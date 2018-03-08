@@ -66,10 +66,10 @@ var contentString = '<div id="content">'+
      // sources for kmls
   var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains2.kml';
   var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
-  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
-  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings_2.kml';
+  //var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
+  var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings.kml';
   var network_structures ='https://jiminimal.github.io/portfolio/kml/network_structures.kml';
-  var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site2.kml';
+  //var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site1.kml';
 
 
 
@@ -111,9 +111,23 @@ document.getElementById('show_hide_water_mains').checked = true;
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('capture');
+          var testimonial = element.id('capture');
           testimonial.innerHTML = content;
         });
+
+// preserved meter layer
+//var kmlLayer = new google.maps.KmlLayer(water_service_meters, {
+ //         suppressInfoWindows: false,
+ //         preserveViewport: true,
+ //         map: map
+//        });
+ //       kmlLayer.addListener('click', function(event) {
+//          var content = event.featureData.infoWindowHtml;
+//          var testimonial = document.getElementById('capture');
+ //         testimonial.innerHTML = content;
+ //       });
+
+
 
 var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
           suppressInfoWindows: false,
@@ -125,6 +139,8 @@ var kmlLayer = new google.maps.KmlLayer(water_line_repair_fittings, {
           var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
+
+
 
 var kmlLayer = new google.maps.KmlLayer(water_network_structures, {
           suppressInfoWindows: false,
@@ -144,7 +160,7 @@ var kmlLayer = new google.maps.KmlLayer(wwtp_site, {
         });
         kmlLayer.addListener('click', function(event) {
           var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('name');
+          var testimonial = document.getElementById('capture');
           testimonial.innerHTML = content;
         });
 // ending kml import
