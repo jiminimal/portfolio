@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>water_line_repair_fittings.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>2</scale>
+			<Icon>
+				<href>Layer0_Symbol_60bdf038_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Water Fittings</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Fittings are shown at scales larger than 1:4,800, though are not labeled in this general depiction of the water network—users would be expected to click on the fittings to get more information.</description>
+		<Placemark id="ID_00000">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72493790000283,31.43949574012127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7244333949875,31.43949084739726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72415245944322,31.4394881221877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72473234369286,31.43949374725152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72402651406557,31.43948689980637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72398005758285,31.43948644919142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72392276087874,31.43948589319752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72389398068623,31.43948561418524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72383320727752,31.43948502397249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7232920153042,31.43947977079823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7236233428396,31.43948298664414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72086876876907,31.43945280900475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72100205680205,31.43945535623901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72009208151779,31.43943795966229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71967537291472,31.43942999027193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.719341304107,31.43893731033101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71933901382162,31.43855078373099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71933871571949,31.43849467373746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71933808266905,31.43837570374464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71940251311595,31.4378162663664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72019515776606,31.43782906251033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72004322643721,31.43782661059634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72118373659295,31.43783768815457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72243776353223,31.43785255252338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>NULL</name>
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7227374580976,31.43785614762219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72293642107894,31.43785853327203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72420568795346,31.43787374771149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71933948693196,31.43863719233613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72006677508642,31.43863207171238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72475982967246,31.44026841382675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72373064683772,31.44025510160948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72347213700432,31.44025175712667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72321943414153,31.44024848639247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72209730090576,31.44023395759247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72168585696221,31.44022862793935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72123545886721,31.44021061647691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71932624404711,31.43667715965939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72029532254278,31.43736448959545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72029195458389,31.43694744586906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72029095142713,31.43682320201978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72028611699074,31.43622446683577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72028283495237,31.43581776512702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72028163187341,31.43566870978833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72028042376668,31.43551906319075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7174042280482,31.4352125558527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.71649659862902,31.43742018591736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72571350263766,31.43700894953025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72578744043531,31.43700838854204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72611876779639,31.43700587425174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72615827528693,31.43700557436006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72631449994284,31.4370043881082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7267731613091,31.43700090561352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7280796313898,31.43694371559005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.7281576362067,31.43699038614764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72825435563553,31.43698965373887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72827264518249,31.43698951498832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72832867136695,31.43698909015539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72844572576948,31.4369882028346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72948638083834,31.43698030842936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72966885174512,31.43697892350658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72975876873545,31.43697824067523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73028250499161,31.43697426398305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73313124817273,31.43693545076425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72529422560432,31.43701213041346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72516395199443,31.43701311771223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72518873172046,31.43702381205176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72523732261084,31.43701256136007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.72542485849867,31.43701113970593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73213453552394,31.42893461510601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73237609003827,31.42827025172477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-91.68656896607285,36.6194435560453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.73140956632867,31.42861320248257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>NULL</name>
+
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74238348867001,31.43287282244631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>NULL</name>
+					
+				    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+
+			<Snippet maxLines="0"></Snippet>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-97.74237842756898,31.43231853172199,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
