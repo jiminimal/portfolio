@@ -64,12 +64,12 @@ var contentString = '<div id="content">'+
 
 
      // sources for kmls
-  var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains2.kml';
+  var water_mains = 'https://jiminimal.github.io/portfolio/kml/water_mains.kml';
   var line_breaks ='https://jiminimal.github.io/portfolio/kml/line_breaks.kml';
-  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters5.kml';
+  var water_service_meters ='https://jiminimal.github.io/portfolio/kml/water_service_meters.kml';
   var water_line_repair_fittings ='https://jiminimal.github.io/portfolio/kml/water_line_repair_fittings5.kml';
   var network_structures ='https://jiminimal.github.io/portfolio/kml/network_structures5.kml';
-  var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site5.kml';
+  var wwtp_site ='https://jiminimal.github.io/portfolio/kml/wwtp_site.kml';
 
 
 
