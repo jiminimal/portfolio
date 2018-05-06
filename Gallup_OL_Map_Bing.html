@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
+    <style>
+      .map {
+        height: 600px;
+        width: 100%;
+      }
+    </style>
+    <script src="https://openlayers.org/en/v4.6.5/build/ol.js" type="text/javascript"></script>
+    <title>OpenLayers Map of Gallup New Mexico, with Bing basemap</title>
+  </head>
+  <body>
+    <h2>Gallup, New Mexico Open Layers Map</h2>
+    <div id="map" class="map"></div>
+
+<script>
+//trying to add new layer here
+
+var pipe = new ol.layer.Tile({
+source: new ol.source.TileWMS({
+attributions: new ol.Attribution({
+target:'map'
+html: 'Gallup Pipe Network'
+}),
+params: {'LAYERS':'PIPE'},
+url: 'http://internetmapping.net:8080/geoserver/jmarkham/wms?',
+serverType: 'geoserver'
+})
+})
+;
+</script>
+
+  <!-- attempt to put in bing baselayer -->
+     <select id="layer-select">
+       <option value="Aerial">Aerial</option>
+       <option value="AerialWithLabels" selected>Aerial with labels</option>
+       <option value="Road">Road (static)</option>
+       <option value="RoadOnDemand">Road (dynamic)</option>
+
+     </select>
+
+
+
+    <script>
+      var styles = [
+        'Road',
+        'RoadOnDemand',
+        'Aerial',
+        'AerialWithLabels',
+     
+      ];
+      var layers = [];
+      var i, ii;
+      for (i = 0, ii = styles.length; i < ii; ++i) {
+        layers.push(new ol.layer.Tile({
+          visible: false,
+          preload: Infinity,
+          source: new ol.source.BingMaps({
+            key: 'AvQMHiA0BdJSNj-jb9KaDVSowjMXWpiiKqE3OirpcY9yUZqbErHn1b9Zc6wzIjPs',
+            imagerySet: styles[i]
+            // use maxZoom 19 to see stretched tiles instead of the BingMaps
+            // "no photos at this zoom level" tiles
+            // maxZoom: 19
+          })
+        }));
+      }
+      var map = new ol.Map({
+        layers: layers,
+        // Improve user experience by loading tiles while dragging/zooming. Will make
+        // zooming choppy on mobile or slow devices.
+        loadTilesWhileInteracting: true,
+        target: 'map',
+           view: new ol.View({
+          center: ol.proj.fromLonLat([-108.7426, 35.5281]),
+          zoom: 13
+        })
+      });
+
+      var select = document.getElementById('layer-select');
+      function onChange() {
+        var style = select.value;
+        for (var i = 0, ii = layers.length; i < ii; ++i) {
+          layers[i].setVisible(styles[i] === style);
+        }
+      }
+      select.addEventListener('change', onChange);
+      onChange();
+
+
+
+
+
+
+    </script>
+
+
+
+
+
+<!-- script below lets app run on older web browsers -->
+      <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList"></script>
+  </body>
+</html>

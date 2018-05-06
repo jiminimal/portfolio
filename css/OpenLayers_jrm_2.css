@@ -1,0 +1,34 @@
+//* OpenLayers_jrm_2.css */
+
+
+ body {
+ width:80%;
+ height:60%
+ }
+
+ #mapspace,.FinalMap {
+ width:500px;
+ height:300px;
+ }
+
+#mapspace,.FinalMap2 {
+ width:500px;
+ height:300px;
+ }
+
+ #map_selector li {
+ cursor:pointer;
+ width:350px;
+ }
+
+ #map_selector li:hover {
+ background-color: yellow;
+ }
+
+
+
+ #mapspace div.ol-viewport div.ol-overlaycontainer-stopevent
+ div.ol-overviewmap.ol-unselectable.ol-control.ol-uncollapsible {
+ top: 200px;
+ bottom: 300px;
+ }
