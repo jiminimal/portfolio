@@ -1,0 +1,181 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/gatesville_map3.css" type="text/css">
+	
+	<link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">	
+	<script src="https://openlayers.org/en/v4.6.5/build/ol.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<h1>Gallup, NM Utility Network</h1>
+
+	<h5> Idea here was to try and use different coding methods to arrive in the same place. <br>Props to mogrentz and dbality.  I couldn't get my layers to show at all until I examined what they were doing under a microscope.  I wanted to use a bing basemap as I did in one of the milestones, but could not get my layers to populate the map). 
+
+		<p> There are a lot of assets here so the loading is much slower than I would find acceptable in a production environment.  I also would need to style the work order layer so as to be able to differentiate between the approximately 10 different types, and develop some sort of time variable for analysis.  
+	
+	<h4>MAP LEGEND <br>
+ Water Mains:  Bright Green Lines<br>
+ Manholes:  Dark Green Dots<br>
+Valves:  Red Squares<br>
+ Fire Hydrants:  Red Icons<br>
+ Daily Work Orders:  Gold "+" Symbols<br>
+	</h4>
+			
+			
+	<h1>Assets Floating in Space without a basemap <br>(scroll down for basemap version)</h1>
+
+	<div id="FinalMap" class="map"><!-- This is where the map will be displayed --></div>
+	
+	<h1>Gallup Utility Network Including: Water Mains, Fire Hydrants, Valves, <br>Sewer Manholes and Work Orders covering a 10 year period.  </h1>
+	
+	<div id="FinalMap2" class="map"><!-- This is where the map will be displayed --></div>
+		
+
+		
+<!-- BIG UPS TO W DIBIALTY - I COULDN'T GET ANYTHING TO DISPLAY UNTIL I TOOK HIS CODE APART BIT BY BIT -->
+
+	<!--<script type="text/javascript" src="js/OpenLayer1.2.js"></script>-->
+	<script type="text/javascript">
+	
+		var projection = ol.proj.get('EPSG:2259')
+	
+	var pipe = new ol.layer.Tile({
+		source: new ol.source.TileWMS({
+		url: 'http://internetmapping.net:8080/geoserver/wms?',
+			params: {
+				LAYERS: 'jmarkham:PIPE',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+				},
+			})
+		})
+		
+	var daily_work = new ol.layer.Tile({
+		source: new ol.source.TileWMS({
+		url: 'http://internetmapping.net:8080/geoserver/wms?',
+			params: {
+				LAYERS: 'jmarkham:DAILY_WORK',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+				},
+			})
+		})	
+	var valves = new ol.layer.Tile({
+		source: new ol.source.TileWMS({
+		url: 'http://internetmapping.net:8080/geoserver/wms?',
+			params: {
+				LAYERS: 'jmarkham:W_VALVE',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+				},
+			})
+		})
+	
+	var manholes = new ol.layer.Tile({
+		source: new ol.source.TileWMS({
+		url: 'http://internetmapping.net:8080/geoserver/wms?',
+			params: {
+				LAYERS: 'jmarkham:S_MH',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+				},
+			})
+		})
+		
+	var hydrants = new ol.layer.Tile({
+		source: new ol.source.TileWMS({
+		url: 'http://internetmapping.net:8080/geoserver/wms?',
+			params: {
+				LAYERS: 'jmarkham:F_HYDRANT',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+				},
+			})
+		})
+	
+var basemap = new ol.layer.Tile({
+		source: new ol.source.BingMaps({
+            key: 'AvQMHiA0BdJSNj-jb9KaDVSowjMXWpiiKqE3OirpcY9yUZqbErHn1b9Zc6wzIjPs',
+			})
+		})
+
+	var Map1 = new ol.Map({
+		target: 'FinalMap',
+		layers: [pipe, daily_work, valves, manholes, hydrants],
+		view: new ol.View({
+			center: ol.proj.fromLonLat([-108.7426, 35.5281]), 
+			zoom: 13,
+			projection: projection,
+			})
+		});	//-108.7426, 35.5281
+		
+	//var Map2 = new ol.Map({
+	//	target: 'FinalMap2',
+	//	layers: [five, MeterBuff, KiloBuff, Well_Loc],
+	//	view: new ol.View({
+	//		center: ol.proj.fromLonLat([-108.7426, 35.5281]), 
+	//		zoom: 11,
+	//		projection: projection,
+	//		})
+	//	})
+
+</script>
+
+ <script>
+      var map = new ol.Map({
+          target: 'FinalMap2',
+          layers: [
+            new ol.layer.Tile({
+              source: new ol.source.OSM()
+            })
+          ],
+          view: new ol.View({
+            center: ol.proj.fromLonLat([-108.7426, 35.5281] ),
+            zoom: 15
+          })
+        });
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:PIPE'}
+        })
+      }),
+      );
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:W_VALVE'}
+        })
+      }),
+      );
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:S_MH'}
+        })
+      }),
+      );    
+
+map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:DAILY_WORK'}
+        })
+      }),
+      );  
+
+map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:F_HYDRANT'}
+        })
+      }),
+      );  
+	</script>	
+	
+</body>
+</html>
