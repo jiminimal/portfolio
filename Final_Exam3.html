@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/gatesville_map3.css" type="text/css">
+	
+	<link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">	
+	<script src="https://openlayers.org/en/v4.6.5/build/ol.js" type="text/javascript"></script>
+</head>
+
+<body onload="init()">
+	<h1>Final Exam Map</h1>
+
+	<h5> Here's a map with 5 layers of data showing ABQ environs.  The contents layers are laid out a bit strangely (the imagery files are non-contiguous, and also have no transparancy) but they do appear to line up correctly with the underlying basemap.
+
+	<h4>Map Compontents:</h4> 
+<h5>Albuquerque Streets<br>
+Two Albuquerque Elevations layers<br>
+Two Non-contiguous Image Layers<br>
+
+	</h5>
+
+
+
+			
+	<div id="ExamMap" class="map"><!-- This is where the map will be displayed --></div>
+	
+
+
+	<!--<script type="text/javascript" src="js/OpenLayer1.2.js"></script>-->
+	
+
+ <script>
+    var map = new ol.Map({
+        target: 'ExamMap',
+        layers: [
+            new ol.layer.Tile({
+              source: new ol.source.OSM()
+          })
+       ],
+        view: new ol.View({
+            center: ol.proj.fromLonLat([-106.6300, 35.0700] ),
+            zoom: 12
+          })
+        });
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:35106-A5',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+			}
+
+        })
+      }),
+      );
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:35106-A6',
+				FORMAT: 'image/png',
+				TRANSPARENT: true
+			}
+        })
+      }),
+      );
+
+      map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:35106-A5_CONT',
+				FORMAT: 'image/png',
+				TRANSPARENT: true}
+        })
+      }),
+      );    
+
+map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:35106-A6_CONT',
+				FORMAT: 'image/png',
+				TRANSPARENT: true}
+        })
+      }),
+      );  
+
+map.addLayer (new ol.layer.Tile ({
+        source: new ol.source.TileWMS ({
+          url: 'http://internetmapping.net:8080/geoserver/wms',
+          params: {Layers: 'jmarkham:tgr2006se_bern_lka',
+				FORMAT: 'image/png',
+				TRANSPARENT: true}
+        })
+      }),
+      );  
+	</script>	
+	
+</body>
+</html>
