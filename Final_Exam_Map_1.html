@@ -31,20 +31,23 @@
 
 <p> For no real good reason I added a "Rotate South" button to change the orientation of the map by 180 degrees.  You can also use "alt+shift+drag" to rotate the map to any orientation you like.  If you rotate the map and arrow icon will appear in the upper right hand corner. Clicking the arrow icon will return the map to a "North-up" rotation.</p>
 
+I couldn't get transparancy to work so I opted to change the opacity of the image files so that I could verify that they lined up with the basemap correctly.
+
 
 	<h4>Map Compontents: <br>
 Albuquerque Streets<br>
-Two Albuquerque Elevations layers<br>
-Two Non-contiguous <br>
+Two Albuquerque Elevations Layers<br>
+Two Non-contiguous Image Layers<br>
+Bing Aerial Basemap
 </h4>
 
 
 
 			
-	<div id="ExamMap" class="map"><!-- This is where the map will be displayed --></div>
-
+	<!--<div id="ExamMap" class="map"></div> -->
+<!-- This is where the map will be displayed -->
 <p>
-<h3>Map with Bing Basemap</h3>
+<h3>Final Exam Map 1 with Bing Basemap</h3>
 
 
 
@@ -221,11 +224,11 @@ var elevation_2 = new ol.layer.Tile({
         }).extend([
           new app.RotateSouthControl()
         ]),
-        layers: [bingMapsRoad,bingMapsAerial,image1,image2,abq_streets, elevation_1, elevation_2],
+        layers: [bingMapsAerial,image1,image2,abq_streets, elevation_1, elevation_2],
         target: ExamMap2,
         view: new ol.View({
           center: ol.proj.transform([-106.6300, 35.0700], 'EPSG:4326', 'EPSG:3857'),
-          zoom: 12
+          zoom: 12.5
         })
       });
 

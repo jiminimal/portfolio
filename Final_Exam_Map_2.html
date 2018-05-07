@@ -25,9 +25,9 @@
 
 
 
-	<h3>Final Exam Map</h3>
+	<h3>Final Exam Map 2</h3>
 
-	<h5> Here's a map with 5 layers of data showing ABQ environs.  The contents layers are laid out a bit strangely (the imagery files are non-contiguous, and also have no transparancy) but they do appear to line up correctly with the underlying basemap.
+	<h5> For the second map I've kept it simple.  I've styled three of the layers: the two elevation layers have a single styles﻿﻿ "black to gray" elevation gradient (where black is low elevation and gray is high).  The gradient was created to cover 80 foot bands and extends from the lowest to highest elevation so that the two files render seamlessly.  The streets layer is color coded based on the type of street it is (eg. street, avenue, etc).   I have left the geotiffs out of this map since they're redundant - I'm using a Bing base map. I really should have a legend laying out what the colored lines mean, but haven't figured out how to do that yet.  I reset the initial zoom level to 14.5 as the thicker street lines look a bit odd when they're too far out 
 
 <p> For no real good reason I added a "Rotate South" button to change the orientation of the map by 180 degrees.  You can also use "alt+shift+drag" to rotate the map to any orientation you like.  If you rotate the map and arrow icon will appear in the upper right hand corner. Clicking the arrow icon will return the map to a "North-up" rotation.</p>
 
@@ -35,16 +35,18 @@
 	<h4>Map Compontents: <br>
 Albuquerque Streets<br>
 Two Albuquerque Elevations layers<br>
-Two Non-contiguous <br>
+Bing Aerial Basemap
+<br>
 </h4>
 
 
 
 			
-	<div id="ExamMap" class="map"><!-- This is where the map will be displayed --></div>
+	<!--<div id="ExamMap" class="map"> </div> -->
+  <!-- This is where the map will be displayed -->
 
 <p>
-<h3>Map with Bing Basemap</h3>
+<h3>Final Exam Map 2 with Bing Basemap</h3>
 
 
 
@@ -181,7 +183,7 @@ function toggleLayer(layerName) {
 		source: new ol.source.TileWMS({
 		url: 'http://internetmapping.net:8080/geoserver/wms?',
 			params: {
-				LAYERS: 'jmarkham:tgr2006se_bern_lka',
+				LAYERS: 'jmarkham:tgr2006se_bern_lka_STYLED',
 				FORMAT: 'image/png',
 				TRANSPARENT: true
 				},
@@ -193,7 +195,7 @@ function toggleLayer(layerName) {
 		source: new ol.source.TileWMS({
 		url: 'http://internetmapping.net:8080/geoserver/wms?',
 			params: {
-				LAYERS: 'jmarkham:35106-A5_CONT',
+				LAYERS: 'jmarkham:35106-A5_CONT_STYLED',
 				FORMAT: 'image/png',
 				TRANSPARENT: true
 				},
@@ -204,7 +206,7 @@ var elevation_2 = new ol.layer.Tile({
 		source: new ol.source.TileWMS({
 		url: 'http://internetmapping.net:8080/geoserver/wms?',
 			params: {
-				LAYERS: 'jmarkham:35106-A6_CONT',
+				LAYERS: 'jmarkham:35106-A6_CONT_STYLED',
 				FORMAT: 'image/png',
 				TRANSPARENT: true
 				},
@@ -221,12 +223,14 @@ var elevation_2 = new ol.layer.Tile({
         }).extend([
           new app.RotateSouthControl()
         ]),
-        layers: [bingMapsRoad,bingMapsAerial,image1,image2,abq_streets, elevation_1, elevation_2],
+        layers: [bingMapsAerial,abq_streets, elevation_1, elevation_2],
         target: ExamMap2,
         view: new ol.View({
           center: ol.proj.transform([-106.6300, 35.0700], 'EPSG:4326', 'EPSG:3857'),
-          zoom: 12
-        })
+          zoom: 14.5
+           })
+ 
+
       });
 
 
